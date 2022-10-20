@@ -1,10 +1,17 @@
-<h3>peppy</h3>
-<p>ID:2</p>
-<hr>
-<s> this page is a stub, feel free to add on to any anything </s>
-{{ns:users}}
-'''peppy''' is the creator of osu!(stable/beta/cutting-edge), osu!stream, and osu!lazer.
-<h4>History<h4>
+---
+title: [peppy]
+lastmod: [2022-10-20]
+categories: [users]
+menu:
+  docs:
+    parent: "users"
+aliases: [ppy]
+stub: [true]
+peppypedia-jekyll: [true]
+peppypedia-hugo: [true]
+---
+peppy is the creator of osu!(stable/beta/cutting-edge), osu!stream, and osu!lazer.
+#### History 
 peppy, inspired by the <i>Osu! Tatakae! Ouendan</i> series publicly launched osu! (not created) on Sept. 17 2007.<a href='https://osu.ppy.sh/wiki/en/History_of_osu%21/2007#september'>[1]</a>
 The IRC (Internet Relay Chat) was launched at some point in December.<a href='https://osu.ppy.sh/wiki/en/History_of_osu%21/2007#november'>[1]</a>
 (which could be connected via a IRC client at cho.ppy.sh  or irc.ppy.sh).
