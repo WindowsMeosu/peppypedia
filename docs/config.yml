@@ -1,51 +1,61 @@
-Params:
-  foo: bar
-  build:
-  _merge: none
-caches:
-  _merge: none
-cascade:
-  _merge: none
-frontmatter:
-  _merge: none
-imaging:
-  _merge: none
-languages:
-  _merge: none
-  en:
-    _merge: none
-    menus:
-      _merge: shallow
-    params:
-      _merge: deep
-markup:
-  _merge: none
-mediatypes:
-  _merge: shallow
-menus:
-  _merge: shallow
+baseURL: 'https://realmilotilo.github.io/peppypedia'
+paginate: 200
+defaultContentLanguage: en
+enableEmoji: true
+timeZone: Amsterdam
+footnotereturnlinkcontents: ↩
+languageCode: en-nl
+title: peppypedia
+ignoreErrors:
+  - error-remote-getjson
+  - error-missing-instagram-accesstoken
+googleAnalytics: false
+pluralizeListTitles: false
+disableAliases: true
 minify:
-  _merge: none
-  env:
-    HUGO_VERSION: 0.102.3
-    GITHUB_PAGES: true
-    HUGO_ENVIRONMENT: production
-    HUGO_ENV: production
+  tdewolff:
+    css: {}
+    html:
+      keepWhitespace: true
 module:
-  _merge: none
-outputformats:
-  _merge: shallow
-params:
-  _merge: deep
-permalinks:
-  _merge: none
-privacy:
-  _merge: none
+  hugoVersion:
+    min: 0.56.0
+  imports:
+    - path: github.com/gohugoio/gohugoioTheme
+outputs:
+  home:
+    - HTML
+    - RSS
+    - REDIR
+    - HEADERS
+  section:
+    - HTML
+    - RSS
+mediaTypes:
+  text/netlify:
+    delimiter: ''
+outputFormats:
+  REDIR:
+    mediatype: text/netlify
+    baseName: _redirects
+    isPlainText: true
+    notAlternative: true
+  HEADERS:
+    mediatype: text/netlify
+    baseName: _headers
+    isPlainText: true
+    notAlternative: true
 related:
-  _merge: none
-security:
-  _merge: none
-sitemap:
-  _merge: none
-taxonomies:
-  _merge: none
+  threshold: 80
+  includeNewer: true
+  toLower: false
+  indices:
+    - name: keywords
+      weight: 100
+    - name: date
+      weight: 10
+      pattern: '2006'
+imaging:
+  resampleFilter: CatmullRom
+  quality: 75
+  anchor: smart
