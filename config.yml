@@ -26,6 +26,11 @@ menus:
   _merge: shallow
 minify:
   _merge: none
+  env:
+    HUGO_VERSION: 0.102.3
+    GITHUB_PAGES: true
+    HUGO_ENVIRONMENT: production
+    HUGO_ENV: production
 module:
   _merge: none
 outputformats:
