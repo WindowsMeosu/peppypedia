@@ -11,7 +11,6 @@
   <tr>
     <th>users:</th>
   <th>https://windowsmeosu.github.io/peppypedia/content/en/users/peppy</th>
-    </table>
 
  <table>
    <tr>
