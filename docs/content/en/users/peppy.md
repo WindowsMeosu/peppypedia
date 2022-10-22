@@ -8,7 +8,7 @@ menu:
 aliases: [ppy]
 stub: [true]
 peppypedia-jekyll: [true]
-peppypedia-hugo: [true]
+peppypedia-current: [true]
 ---
 peppy is the creator of osu!(stable/beta/cutting-edge), osu!stream, and osu!lazer.
 #### History 
