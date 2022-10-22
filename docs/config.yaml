@@ -1,4 +1,4 @@
-baseURL: 'https://realmilotilo.github.io/peppypedia'
+baseURL: 'https://windowsmeosu.github.io/peppypedia'
 paginate: 200
 defaultContentLanguage: en
 enableEmoji: true
@@ -59,3 +59,4 @@ imaging:
   resampleFilter: CatmullRom
   quality: 75
   anchor: smart
+# we'll keep this up cuz why not
