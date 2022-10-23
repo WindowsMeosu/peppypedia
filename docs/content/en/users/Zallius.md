@@ -21,7 +21,7 @@ peppypedia-current: [true]
 
 # Zallius
 * * *
-Zallius, currently living in Australia is a current GMT member[[1]](https://osu.ppy.sh/users/55) who usually moderates #osu. Zallius is considered a "Endangered species" on the Wiki[[1]](https://osu.ppy.sh/wiki/en/People/The_Team).
+Zallius, currently living in Australia is a current GMT member[[1]](https://osu.ppy.sh/users/55) who usually moderates #osu. Zallius is considered a "Endangered species" on the Wiki.[[1]](https://osu.ppy.sh/wiki/en/People/The_Team)
 <table>
   <tr>
     <th>
