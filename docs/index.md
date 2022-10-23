@@ -1,29 +1,28 @@
 # peppypedia
 * * *
   peppypedia
-      reworked version (0.0.1)
+      reworked version (0.0.2)
       
   * Note: the date is determined by last commit (excluding minor commits) and not determined by when the page was created
    
    * * *
 
-<table>
-  <tr>
-    <th>users:</th>
-  <th>https://windowsmeosu.github.io/peppypedia/content/en/users/peppy</th>
+| users: | https://windowsmeosu.github.io/peppypedia/content/en/users/peppy |
+| --- | --- |
 
- <table>
-   <tr>
-     <th>maps:
-     <th>https://windowsmeosu.github.io/peppypedia/content/en/maps/disco_prince</th>
-     <table>
-   <tr>
- <th>10/20/2022:</th>
- <th>user/peppy</th>
-<table>
-<tr>
-<th>10/22/2022:</th>
-<th>maps/disco_prince</th>
-             
+| users: | https://windowsmeosu.github.io/peppypedia/content/en/users/Zallius |
+| --- | --- |
+
+| maps: | https://windowsmeosu.github.io/peppypedia/content/en/maps/disco_prince |
+| --- | --- |
+
+| 10/24/2022: | user/peppy |
+| --- | --- |
+
+| 10/24/2022: | user/Zallius |
+| --- | --- |
+
+| 10/22/2022: | maps/disco_prince |
+| --- | --- |
 
 
