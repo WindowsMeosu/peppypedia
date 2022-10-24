@@ -1,2 +1,3 @@
 markdown: GFM
 theme: minimal-mistakes-jekyll
+plugins: jekyll-include-cache
