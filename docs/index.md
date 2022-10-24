@@ -28,5 +28,5 @@
 
 
 Themes:
-peppypediaplus
-minima
+* peppypediaplus
+* minima
