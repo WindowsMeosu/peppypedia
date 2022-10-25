@@ -4,5 +4,5 @@ defaults:
       path: "content/en"
     values:
       layout: "users", "maps"
-      permalink: 
+      permalink: /users/:title
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md", "404.md"]
