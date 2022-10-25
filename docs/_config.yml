@@ -3,7 +3,6 @@ defaults:
   - scope:
       path: "content/en"
     values:
-      layout: "pages"
-      permalink: /users
-      permalink: /maps
+      layout: "users", "maps"
+      permalink: 
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md", "404.md"]
