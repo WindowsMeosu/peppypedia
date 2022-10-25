@@ -3,6 +3,6 @@ defaults:
   - scope:
       path: "content/en"
     values:
-      layout: "users", "maps"
+      layout: ["users", "maps"]
       permalink: /wiki/:title/
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md", "404.md"]
