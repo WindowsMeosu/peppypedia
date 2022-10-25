@@ -1,2 +1,9 @@
 markdown: GFM
-remote_theme: sharadcodes/jekyll-theme-serial-programmer
+defaults:
+  - scope:
+      path: "content/en"
+    values:
+      layout: "pages"
+      permalink: /users
+      permalink: /maps
+exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md", "404.md"]
