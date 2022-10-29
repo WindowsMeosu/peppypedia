@@ -16,6 +16,9 @@
 | maps: | https://windowsmeosu.github.io/peppypedia/content/en/maps/disco_prince |
 | --- | --- |
 
+| modes: | https://windowsmeosu.github.io/peppypedia/content/en/modes/osu! |
+| --- | --- |
+
 | 10/24/2022: | user/peppy |
 | --- | --- |
 
@@ -25,8 +28,11 @@
 | 10/22/2022: | maps/disco_prince |
 | --- | --- |
 
+| 10/29/2022: | modes/osu! |
+| --- | --- |
+
 
 
 Themes:
-* peppypediaplus (WIP)
+* peppypediaplus (WIP, unused for now)
 * minima (on peppypedia-old)
