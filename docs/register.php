@@ -9,7 +9,7 @@
 <div class="signup-form">
     <form action="special:register_pr.php" method="post" enctype="multipart/form-data">
 		<h2>Register</h2>
-		<pclass="hint-text">Create your account</p>
+		<p>class="hint-text">Create your account</p>
         <div class="form-group">
         	<input type="username" class="form-control" name="username" placeholder="Username" required="required">
         </div>
