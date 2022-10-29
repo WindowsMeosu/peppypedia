@@ -1,3 +1,15 @@
+---
+title: [osu!std]
+lastmod: [2022-10-29]
+categories: [modes]
+menu:
+  docs:
+    parent: "modes"
+aliases: [osu!standard, osu!]
+stub: [true]
+peppypedia-jekyll: [false]
+peppypedia-current: [true]
+---
 <table>
 <th>
   <h1>osu!standard</h1>
