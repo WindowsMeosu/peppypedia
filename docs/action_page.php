@@ -12,7 +12,7 @@ $user=$_POST['uname'];
 $pass=$_POST['psw']; 
 #echo $user.$pass; 
 
-$con=mysql_connect('localhost','root','') or (mysql_error());  
+$con=mysql_connect('localhost','docs','') or (mysql_error());  
     mysql_select_db('SampleDB') or die("cannot select DB");
 #echo $con; 
 $query=mysql_query("SELECT * FROM sampletable WHERE username='".$user."' AND password='".$pass."'");  
