@@ -28,7 +28,7 @@
 		<div class="form-group">
             <button type="submit" name="save" class="btn btn-success btn-lg btn-block">Register Now</button>
         </div>
-        <div class="text-center">Already have an account? <a href="special:login.php">Sign in</a></div>
+        <div class="text-center">Already have an account? <a href="/login.php">Sign in</a></div>
     </form>
 	
 </div>
