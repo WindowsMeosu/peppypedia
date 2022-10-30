@@ -1,4 +1,4 @@
-<?php
+<?php>
 extract($_POST);
 include("database.php");
 $sql=mysqli_query($conn,"SELECT * FROM register where Username='$username'");
@@ -27,3 +27,4 @@ else(isset($_POST['save']))
 }
 
 ?>
+</php?>
