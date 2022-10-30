@@ -3,9 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
 </head>
 <body>
-<script>
 <div class="signup-form">
     <form action="special:register_pr.php" method="post" enctype="multipart/form-data">
 		<h2>Register</h2>
@@ -30,7 +30,7 @@
         </div>
         <div class="text-center">Already have an account? <a href="/login.php">Sign in</a></div>
     </form>
+	
 </div>
 </body>
 </html>
-</script>
