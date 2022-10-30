@@ -1,8 +1,6 @@
-<script>
 <?php
     session_start();
     unset($_SESSION["id"]);
     unset($_SESSION["name"]);
-    header("Location:/login.html");
+    header("Location:login.php");
 ?>
-</script>
