@@ -9,6 +9,7 @@ title: peppypedia
 ignoreErrors:
   - error-remote-getjson
   - error-missing-instagram-accesstoken
+  - detect-package-manager
 googleAnalytics: false
 pluralizeListTitles: false
 disableAliases: true
