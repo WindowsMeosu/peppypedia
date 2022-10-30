@@ -1,12 +1,7 @@
 # Add 'repo' label to any root file changes
 repo:
 - '*'
-
-
 content:
 - any: ['docs/**/**/*]
-
-
-
 docs:
 - any: ['docs/**/*']
