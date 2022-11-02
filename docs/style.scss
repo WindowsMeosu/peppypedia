@@ -1,0 +1,9 @@
+@media (prefers-color-scheme: dark) {
+  img {
+    opacity: .82;
+    transition: opacity .4s ease-in-out;
+  }
+  img:hover {
+    opacity: 4;
+  }
+}
