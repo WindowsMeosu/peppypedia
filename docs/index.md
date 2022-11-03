@@ -10,7 +10,7 @@
 | users: | https://windowsmeosu.github.io/peppypedia/content/en/users/peppy |
 | --- | --- |
 
-| users: | https://windowsmeosu.github.io/peppypedia/content/en/users/Zallius |
+| users: | https://windowsmeosu.github.io/peppypedia/content/en/users/roles/gmt/Zallius |
 | --- | --- |
 
 | maps: | https://windowsmeosu.github.io/peppypedia/content/en/maps/disco_prince |
@@ -22,8 +22,12 @@
 | 10/24/2022: | user/peppy |
 | --- | --- |
 
-| 10/24/2022: | user/Zallius |
+| 10/24/2022: | user/roles/gmt/Zallius |
 | --- | --- |
+
+| 11/03/2022: | user/roles/gmt/deleted |
+| --- | --- |
+
 
 | 10/22/2022: | maps/disco_prince |
 | --- | --- |
