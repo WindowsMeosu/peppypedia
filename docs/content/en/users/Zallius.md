@@ -1,7 +1,7 @@
 ---
 title: [Zallius]
 lastmod: [2022-10-24]
-categories: [users]
+categories: [users/roles/gmt]
 menu:
   docs:
     parent: "users"
