@@ -34,7 +34,7 @@
         data['subject'] = subject;
         data['text'] = message;
 
-        $.post('windowsmeosu.github.com/peppypedia/special:login-page.js',
+        $.post('windowsmeosu.github.com/peppypedia/login',
             data,
             onSuccess
         ).fail(onError);
