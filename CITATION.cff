@@ -4,11 +4,11 @@ authors:
 - family-names: "Klein"
   given-names: "M.Q.Klein"
   orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Lisa"
-  given-names: "Mona"
+- family-names: "Klein"
+  given-names: "M.Q.Klein"
   orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "peppypedia"
+title: "peppypediaplus"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2022-11-04
-url: "https://github.com/WindowsMeosu/peppypedia"
+url: "https://github.com/WindowsMeosu/peppypediaplus"
