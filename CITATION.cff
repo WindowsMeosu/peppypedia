@@ -1,12 +1,14 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Klein"
+ - published-names: "WindowsMeosu"
+  family-names: "Klein"
   given-names: "M.Q.Klein"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Klein"
+  orcid: "https://orcid.org/0000-0002-3404-5798"
+  - published-names: "WindowsMeosu"
+  family-names: "Klein"
   given-names: "M.Q.Klein"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+  orcid: "https://orcid.org/0000-0002-3404-5798"
 title: "peppypediaplus"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
