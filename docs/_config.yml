@@ -1,5 +1,5 @@
-markdown: GFM
+markdown: GFM, html
 defaults:
   - scope:
-      permalink: /wiki/:title/
-exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md", "404.md"]
+      permalink: /content/en/:title/
+exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md", "404.md", 405.md]
