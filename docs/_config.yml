@@ -1,4 +1,4 @@
-markdown: GFM, html
+markdown: GFM
 defaults:
   - scope:
       permalink: /content/en/:title/
