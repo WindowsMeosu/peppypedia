@@ -1,4 +1,4 @@
-markdown: Markdown Extra
+markdown: Markdown_Extra
 defaults:
   - scope:
       permalink: /content/en/:title/
