@@ -20,6 +20,7 @@ This page does not list much information about this particular person/map/featur
 # WhiteCat
 
 ---
+## WhiteCat
 WhiteCat (#4 as of 11/11/22) is a well-known osu! top player who achieved #1 on Oct. 6 2022; however was sniped by mrekk on April, 08 2021.<a href="https://www.reddit.com/r/osugame/comments/de8duf/whitecat_is_now_1_global_on_osustandard/">[1][[2]](https://www.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/)
 
 
