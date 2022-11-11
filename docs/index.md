@@ -16,6 +16,8 @@
 | users: | https://windowsmeosu.github.io/peppypedia/content/en/users/jhlee0133 |
 | --- | --- |
 
+| users: | https://windowsmeosu.github.io/peppypedia/content/en/users/WhiteCat |
+| --- | --- |
 
 | maps: | https://windowsmeosu.github.io/peppypedia/content/en/maps/disco_prince |
 | --- | --- |
@@ -31,6 +33,9 @@
 
 
 | 11/11/2022: | user/jhlee0133 |
+| --- | --- |
+
+| 11/11/2022: | user/WhiteCat |
 | --- | --- |
 
 | 11/03/2022: | user/roles/gmt/deleted |
