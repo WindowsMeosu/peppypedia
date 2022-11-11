@@ -19,6 +19,7 @@ This page does not list much information about this particular person/map/featur
 # jhlee0133
 
 ---
+## jhlee0133
 
 jhlee0133 was #1 of osu!mania up until 2017<a href="https://www.reddit.com/r/osugame/comments/62r7vh/jhlee0l33_is_now_1_in_osumania_ranking_taking/">[need better sources]</a> and quitted on November 17, 2022.<a href="https://osu.ppy.sh/users/140148">[1]</a>
 
