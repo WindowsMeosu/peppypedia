@@ -51,5 +51,6 @@
 
 
 Themes:
-* peppypediaplus (WIP, unused for now)
+* <s>peppypediaplus (WIP, unused for now)</s> (scrapped)
+* peppyqq (WIP, unused)
 * minima (on peppypedia-old)
