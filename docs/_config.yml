@@ -1,6 +1,6 @@
+remote_theme: just-the-docs/just-the-docs
 markdown: GFM
 defaults:
   - scope:
- remote_theme: just-the-docs/just-the-docs
       permalink: /content/en/:title/
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md", "404.md", 405.md]
