@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" lang="en">
+    <head>
+        <link rel="apple-touch-icon" sizes="180x180" href="https://osu.ppy.sh/images/favicon/apple-touch-icon.png">
+<link rel="icon" sizes="32x32" href="https://osu.ppy.sh/images/favicon/favicon-32x32.png">
+<link rel="icon" sizes="16x16" href="https://osu.ppy.sh/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="https://osu.ppy.sh/site.webmanifest">
+<link rel="mask-icon" href="https://osu.ppy.sh/images/favicon/safari-pinned-tab.svg" color="#e2609a">
+<meta name="msapplication-TileColor" content="#603cba">
+<meta name="theme-color" content="hsl(333, 10%, 40%)"> 
+
+<meta charset="utf-8">
+<meta name="description" content="osu! - Rhythm is just a *click* away!  With Ouendan/EBA, Taiko and original gameplay modes, as well as a fully functional level editor.">
+<meta name="keywords" content="osu, peppy, ouendan, elite, beat, agents, ds, windows, game, taiko, tatsujin, simulator, sim, xna, ddr, beatmania, osu!, osume">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<meta name="csrf-param" content="_token">
+<meta name="csrf-token" content="CQ8LuplFuSweK3a2QwVfcbLp06bMIxkBDotXeTzw">
+
+<meta name="turbolinks-cache-control" content="no-preview">
+
+
+
+<link rel="stylesheet" media="all" href="/assets/css/app.e5cf4e78.css" data-turbolinks-track="reload">
+
+<script>
+    var currentLocale = "en";
+    var fallbackLocale = "en";
+</script>
+
+<script src="/assets/js/runtime.bf0c1444.js" data-turbolinks-track="reload"></script>
+<script src="/assets/js/vendor.03bce4dd.js" data-turbolinks-track="reload"></script>
+
+
+<script src="/assets/js/locales/en.6601dad4.js" data-turbolinks-track="reload"></script>
+
+<script src="/assets/js/commons.96fb5c8d.js" data-turbolinks-track="reload"></script>
+<script src="/assets/js/app.80d61372.js" data-turbolinks-track="reload"></script>
+
+<script
+    src="/assets/js/moment-locales/en-gb.63f5394e.js"
+    data-turbolinks-track="reload"
+></script>
+
+
+
+        <title>authorize app | osu!</title>
+    </head>
+
+    <body
+        class="
+            osu-layout
+            osu-layout--body
+            t-section
+            action-authorize
+            
+        "
+    >
+        <style>
+            :root {
+                --base-hue: 333;
+                --base-hue-deg: 333deg;
+            }
+        </style>
+        <div id="overlay" class="blackout blackout--overlay" style="display: none;"></div>
+        <div class="blackout js-blackout" data-visibility="hidden"></div>
+
+        
+                <div class="osu-layout__section osu-layout__section--full js-content user_authorize">
+                            <form method="POST" action="https://osu.ppy.sh/session" accept-charset="UTF-8" class="dialog-form js-login-form" data-remote><input name="_token" type="hidden" value="CQ8LuplFuSweK3a2QwVfcbLp06bMIxkBDotXeTzw">
+        <div class="dialog-form__dialog">
+            <div class="dialog-form__row dialog-form__row--header"></div>
+
+            <div class="dialog-form__row dialog-form__row--title">
+                <div class="dialog-form__logo"></div>
+                <h1 class="dialog-form__title">Account Sign-in</h1>
+            </div>
+
+            <div class="dialog-form__row dialog-form__row--label">
+                First, let&#039;s sign into your account!
+            </div>
+
+            <div class="dialog-form__row dialog-form__row--input">
+                <input
+                    class="dialog-form__input js-login-form-input"
+                    name="username"
+                    placeholder="username"
+                    required
+                    autofocus
+                />
+            </div>
+
+            <div class="dialog-form__row dialog-form__row--input">
+                <input
+                    class="dialog-form__input js-login-form-input"
+                    name="password"
+                    type="password"
+                    placeholder="password"
+                    required
+                />
+            </div>
+
+                            <div class="dialog-form__row">
+                    <div class="js-captcha--container"></div>
+                </div>
+                <script>
+    osuCore.turbolinksReload.load('https://www.recaptcha.net/recaptcha/api.js?render=explicit&onload=initCaptcha&hl=en');
+    function initCaptcha() { osuCore.captcha.init('6LcsMMEZAAAAAEaveJ7bCI5sizQVYol-dAGVZFoq', false); }
+</script>
+            
+            <div class="dialog-form__row dialog-form__row--error js-login-form--error">
+            </div>
+
+            <div class="dialog-form__row dialog-form__row--extra-link">
+                <a href="https://osu.ppy.sh/home/password-reset" class="dialog-form__extra-link">
+                    I&#039;ve forgotten my details
+                </a>
+            </div>
+
+            <div class="dialog-form__row dialog-form__row--extra-link">
+                Don&#039;t have an account?
+                <a href="https://osu.ppy.sh/home/download" class="dialog-form__extra-link">
+                    Click here to download the game and create an account
+                </a>
+            </div>
+
+            <div class="dialog-form__row dialog-form__row--buttons">
+                <button
+                    class="dialog-form__button js-captcha--submit-button"
+                    data-disable-with="Signing in..."
+                >
+                    Sign in
+                </button>
+
+                <a
+                    href="https://milotilo.ddns.net/peppypedia?error=access_denied"
+                    class="dialog-form__button dialog-form__button--cancel"
+                >
+                    Cancel
+                </a>
+            </div>
+        </div>
+    </form>
+        </div>
+        
+        <div
+            class="fixed-bar
+                js-fixed-element
+                js-fixed-bottom-bar
+                js-sticky-footer--fixed-bar"
+        >
+            <div
+                class="js-permanent-fixed-footer
+                    js-sync-height--reference"
+                data-sync-height-target="permanent-fixed-footer"
+            >
+                
+                            </div>
+        </div>
+
+        <div id="main-player" class="audio-player-floating" data-turbolinks-permanent>
+            <div class="js-audio--main"></div>
+            <div class="js-sync-height--target" data-sync-height-id="permanent-fixed-footer"></div>
+        </div>
+        
+        <div id="estimate-min-lines" class="estimate-min-lines" data-turbolinks-permanent>
+            <div class="estimate-min-lines__content js-estimate-min-lines"></div>
+        </div>
+        <script data-turbolinks-eval="always">
+    var csrf = "CQ8LuplFuSweK3a2QwVfcbLp06bMIxkBDotXeTzw";
+    var canonicalUrl = "";
+</script>
+
+<script class="js-current-user">
+    var currentUser = {};
+    // self-destruct to avoid rerun by turbolinks
+    $('.js-current-user').remove();
+</script>
+
+<div id="js-usercard__loading-template" class="hidden">
+    
+    <div class="js-react--user-card"></div>
+</div>
+        <div class="loading-overlay js-loading-overlay">
+    <div class="loading-overlay__container">
+                    <div class="loading-overlay__follow-point
+                    loading-overlay__follow-point--1">
+                ›
+            </div>
+
+                            <div class="loading-overlay__circle
+                        loading-overlay__circle--1
+                        loading-overlay__circle--approach"
+                ></div>
+                            <div class="loading-overlay__circle
+                        loading-overlay__circle--1
+                        loading-overlay__circle--hit"
+                ></div>
+                                <div class="loading-overlay__follow-point
+                    loading-overlay__follow-point--2">
+                ›
+            </div>
+
+                            <div class="loading-overlay__circle
+                        loading-overlay__circle--2
+                        loading-overlay__circle--approach"
+                ></div>
+                            <div class="loading-overlay__circle
+                        loading-overlay__circle--2
+                        loading-overlay__circle--hit"
+                ></div>
+                                <div class="loading-overlay__follow-point
+                    loading-overlay__follow-point--3">
+                ›
+            </div>
+
+                            <div class="loading-overlay__circle
+                        loading-overlay__circle--3
+                        loading-overlay__circle--approach"
+                ></div>
+                            <div class="loading-overlay__circle
+                        loading-overlay__circle--3
+                        loading-overlay__circle--hit"
+                ></div>
+                                <div class="loading-overlay__follow-point
+                    loading-overlay__follow-point--4">
+                ›
+            </div>
+
+                            <div class="loading-overlay__circle
+                        loading-overlay__circle--4
+                        loading-overlay__circle--approach"
+                ></div>
+                            <div class="loading-overlay__circle
+                        loading-overlay__circle--4
+                        loading-overlay__circle--hit"
+                ></div>
+                        </div>
+</div>
+        <div id="popup-container">
+    <div class="alert alert-dismissable popup-clone col-md-6 col-md-offset-3 text-center" style="display: none">
+        <button type="button" data-dismiss="alert" class="close"><i class="fas fa-times"></i></button>
+        <span class="popup-text"></span>
+    </div>
+    <div class="empty-popup empty-popup--clone" style="display: none">
+        <div class="popup-content"></div>
+    </div>
+</div>
+
+        <script id="json-route-section" type="application/json">
+            {"action":"authorize","controller":"authorization_controller","namespace":"passport","section":"user"}
+        </script>
+
+            </body>
+</html>
