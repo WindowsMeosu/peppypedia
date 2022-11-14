@@ -9,4 +9,4 @@ ga_tracking: G-737VMDEJJQ
 ga_tracking_anonymize_ip: true
 plugins:
   - jekyll-seo-tag
- logo: /assets/images/ppypedialogo.png
+ logo: /docs/assets/images/ppypedialogo.png
