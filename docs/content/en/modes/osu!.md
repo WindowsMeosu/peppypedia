@@ -21,5 +21,5 @@ peppypedia-current: [true]
   <p> As of today, the former #1 of this mode is WhiteCat</p?
   </th>
   
-  
+  </th></tr></tbody></table>
 
