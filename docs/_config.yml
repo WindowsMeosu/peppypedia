@@ -5,3 +5,5 @@ defaults:
   - scope:
       permalink: /content/en/:title/
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md", "404.md", 405.md]
+ga_tracking: G-737VMDEJJQ
+ga_tracking_anonymize_ip: true
