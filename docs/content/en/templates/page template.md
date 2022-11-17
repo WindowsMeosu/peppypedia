@@ -34,13 +34,10 @@ refer to it as peppypedia-old hence both ppypedia-current and ppypedia-old use j
   
 # Stubs
 if 'stub:' is marked [true] then this following example should be used:
-<table>
-  <th>
+<pre>
 &lt;table&gt;
-<p>&lt;tbody&gt;&lt;tr&gt;</p>
-<p>&lt;th&gt;</p>
-  <p>This page does not list much information about this particular person/map/feature/etc. (stub)</p>
-  <p>&lt;/th&gt;&lt;th&gt;</p>
-  </th>
-</table>
-  <p><b>Reminder to un-indent any elements to avoid breaking.</p>
+&lt;tbody&gt;&lt;tr&gt;
+&lt;th&gt;
+This page does not list much information about this particular person/map/feature/etc. (stub)
+&lt;/th&gt;&lt;th&gt;
+</pre>
