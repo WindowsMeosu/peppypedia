@@ -2,6 +2,7 @@
 title: [page-template]
 lastmod: [2022-11-17]
 categories: [templates]
+category: [templates]
 menu:
   docs:
     parent: "templates"
@@ -13,11 +14,8 @@ peppypedia-current: [true]
 # Page Template
 * Page Templates for peppypedia.
 # Markdown
-* --- syntax is used at the top of the page at the all times.
-Example:
-<table border="1">
-<table>
-<td>
+* All pages should always start with this:
+<pre>
 ---
 title: [page-template]
 lastmod: [2022-11-17]
@@ -29,10 +27,10 @@ aliases: [format-template]
 stub: [false]
 peppypedia-jekyll: [false]
 peppypedia-current: [true]
----
-  </td>
-  </table>
-  <p><b>Note, this has to be vertical despite it not being vertical in the example.</b></p>
+ ---
+</pre>
+peppypedia-jekyll or peppypedia-old should usually be marked false, Template pages should be added to -old as well.
+refer to it as peppypedia-old hence both ppypedia-current and ppypedia-old use jekyll. 
   
 # Stubs
 if 'stub:' is marked [true] then this following example should be used:
