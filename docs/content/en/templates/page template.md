@@ -32,6 +32,7 @@ peppypedia-current: [true]
 ---
   </td>
   </table>
+
 # Stubs
 if 'stub:' is marked [true] then this following example should be used:
 <table>
