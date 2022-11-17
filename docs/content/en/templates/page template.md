@@ -32,7 +32,8 @@ peppypedia-current: [true]
 ---
   </td>
   </table>
-  <p><b>Note, this has to be vertical despite it not being vertical in the example</b></p>
+  <p><b>Note, this has to be vertical despite it not being vertical in the example.</b></p>
+  
 # Stubs
 if 'stub:' is marked [true] then this following example should be used:
 <table>
@@ -44,4 +45,4 @@ if 'stub:' is marked [true] then this following example should be used:
   <p>&lt;/th&gt;&lt;th&gt;</p>
   </th>
 </table>
-  <p><b>Reminder to un-indent any elements to avoid breaking</p>
+  <p><b>Reminder to un-indent any elements to avoid breaking.</p>
