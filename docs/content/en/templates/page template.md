@@ -32,7 +32,7 @@ peppypedia-current: [true]
 ---
   </td>
   </table>
-
+  <p><b>Note, this has to be vertical despite it not being vertical in the example</b></p>
 # Stubs
 if 'stub:' is marked [true] then this following example should be used:
 <table>
