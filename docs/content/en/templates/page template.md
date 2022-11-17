@@ -1,5 +1,4 @@
-
-(---)
+---
 title: [page-template]
 lastmod: [2022-11-17]
 categories: [templates]
@@ -10,7 +9,7 @@ aliases: [format-template]
 stub: [true]
 peppypedia-jekyll: [false]
 peppypedia-current: [true]
-(---)
+---
 # Page Template
 * Page Templates for peppypedia.
 # Markdown
