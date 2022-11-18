@@ -1,5 +1,5 @@
 ---
-X-UA-Compatible: [IE-9]
+X-UA-Compatible: [IE=9]
 ---
 # Supported browsers
 A list of most supported browsers for peppypedia:
