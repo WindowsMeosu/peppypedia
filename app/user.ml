@@ -1,10 +1,9 @@
-val user_val = + 1
-val page_val = + 1
-val docs_val = + 1
-val mil_val = + 1
-val prof_pic = - 1 = val left + 1 = val right
-end
-database
- = square val prof_pic = left - 52
+val user_val = + 1 = x
+val page_val = + 1 = z
+val docs_val = + 1 = c
+val mil_val = + 1 - n 
+val prof_pic = - 1 = n
+val left - 1
+val right + 1
 end
 (*values stored in standard ml*)
