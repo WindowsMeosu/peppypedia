@@ -10,6 +10,6 @@ ga_tracking_anonymize_ip: true
 plugins:
   - jekyll-seo-tag
 logo: /assets/images/ppypedialogo.png
- feed_items: 90
-   feed_update_period: daily
-      feed_update_frequency: 2
+feed_items: 90
+ feed_update_period: daily
+   feed_update_frequency: 2
