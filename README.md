@@ -3,3 +3,7 @@ this version of peppypedia is a reworked version of the now depreciated jekyll-H
 
 Some code here may not belong to me.
 IRC: (libera.chat) ##peppypedia (##peppypedia because #peppypedia is locked)
+
+
+If you use gitlab instead of github please go here:
+https://gitlab.com/milotilo/peppypedia/-/blob/main/README.md
