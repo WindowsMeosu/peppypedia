@@ -2,8 +2,34 @@ remote_theme: Drassil/git-wiki-theme
 color_scheme: dark
 markdown: GFM
 defaults:
-  - scope:
-      permalink: :/title
+ 
+ - scope:
+     path: wiki
+      permalink: /:basename
+       -
+    scope:
+      path: "" 
+    values:
+      layout: "git-wiki-default"
+ -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "git-wiki-default"
+ -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "git-wiki-post"
+ -
+    scope:
+      path: assets/blog
+    values:
+      layout: "git-wiki-blog"
+sass:
+    style: compressed
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md", "404.md", 405.md]
 ga_tracking: G-737VMDEJJQ
 ga_tracking_anonymize_ip: true
@@ -13,6 +39,21 @@ plugins:
   - jekyll-toc
   - jekyll-wiki
   - jekyll-mediawiki
+  - jekyll-avatar
+  - jekyll-coffeescript
+  - jekyll-default-layout
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-mentions
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-redirect-from
+  - jekyll-remote-theme
+  - jekyll-relative-links
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+  - jemoji
 
 logo: /assets/images/ppypedialogo.png
 feed_items: 90
@@ -25,3 +66,4 @@ blog_feature: true
 show_wiki_posts: true
 show_wiki_posts_limit: 10
 use_prose_io: true
+site_root: ./docs
