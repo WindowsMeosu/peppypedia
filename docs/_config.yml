@@ -5,6 +5,7 @@ defaults:
  
  - scope:
      path: wiki
+      values:
       permalink: /:basename
        -
     scope:
