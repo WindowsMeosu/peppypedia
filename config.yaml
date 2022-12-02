@@ -22,16 +22,18 @@ module:
   hugoVersion:
     min: 0.56.0
   imports:
-    - path: github.com/gohugoio/gohugoioTheme
+    - path: gohugoio/gohugoioTheme
 outputs:
   home:
     - HTML
     - RSS
     - REDIR
     - HEADERS
+    - WIKI
   section:
     - HTML
     - RSS
+    - WIKI
 mediaTypes:
   text/netlify:
     delimiter: ''
