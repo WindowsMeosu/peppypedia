@@ -1,0 +1,12 @@
+prose:
+  metadata:
+    docs:
+      - name: "content"
+        field:
+          element: "hidden"
+          value: "articles"
+    docs/content/en:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "blog"
