@@ -3,12 +3,17 @@ color_scheme: dark
 markdown: GFM
 defaults:
   - scope:
-      permalink: /content/en/:title/
+      permalink:
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md", "404.md", 405.md]
 ga_tracking: G-737VMDEJJQ
 ga_tracking_anonymize_ip: true
 plugins:
   - jekyll-seo-tag
+  - jekyll-asciidoc
+  - jekyll-toc
+  - jekyll-wiki
+  - jekyll-mediawiki
+
 logo: /assets/images/ppypedialogo.png
 feed_items: 90
 feed_update_period: daily
