@@ -9,7 +9,7 @@ logo: /assets/images/ppypedialogo.png
 feed_items: 90
 feed_update_period: daily
 feed_update_frequency: 2
-exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
+exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md", "404.md"]
 ga_tracking: G-737VMDEJJQ
 ga_tracking_anonymize_ip: true
 plugins:
