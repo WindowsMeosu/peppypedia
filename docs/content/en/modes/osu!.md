@@ -23,3 +23,6 @@ peppypedia-current: [true]
   
   </th></tr></tbody></table>
 
+### references:
+
+* Hobbs, L. (2021, January 14). osu! online rankings history. Online rankings history / osu! rankings history · wiki | osu! Retrieved December 2, 2022, from https://osu.ppy.sh/wiki/en/History_of_osu%21/Online_rankings/osu%21
