@@ -7,3 +7,5 @@ IRC: (libera.chat) ##peppypedia (##peppypedia because #peppypedia is locked)
 
 If you use gitlab instead of github please go here:
 https://gitlab.com/milotilo/peppypedia/-/blob/main/README.md
+
+This repo is maintained by WindowsMeosu
