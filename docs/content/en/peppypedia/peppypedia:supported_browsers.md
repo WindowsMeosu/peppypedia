@@ -9,3 +9,5 @@ A list of most supported browsers for peppypedia:
 * Mozilla Firefox
 * GNU IceCat
 * Any modern browser
+
+Note: on 12/25/2022, the ability to visit articles on this site under IE9 will be forbidden.
