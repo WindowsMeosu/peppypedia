@@ -3,3 +3,4 @@
         document.location.href="unsupported_browsererror.html";
     </script>
 <![endif]-->
+IF you aren't being redirected, your browser is supported.
