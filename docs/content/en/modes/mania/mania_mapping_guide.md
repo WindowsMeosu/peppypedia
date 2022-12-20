@@ -7,10 +7,10 @@ menu:
     parent: "guides"
 aliases: [mania-patterns]
 stub: [false]
+unfinished: [draft]
 peppypedia-old: [false]
 peppypedia-current: [true]
- ---
-
+---
 ## Mania Patterns
 
 This is a list of mania patterns, pick the one you feel best for your map. Choose wisely and choose within your means.
