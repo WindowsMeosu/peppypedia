@@ -1,21 +1,23 @@
-document.write('<!DOCTYPE html>');
-document.write('<html>');
-document.write('');
-document.write('');
-document.write('');
-document.write('    <div class="main-content">');
-document.write('');
-document.write('');
-document.write('');
-document.write('<form class="form-login" method="get" action="https://osu.ppy.sh/oauth/authorize?client_id=18792&redirect_uri=https%3A%2F%2Fmilotilo.ddns.net%2Fpeppypedia&response_type=code">');
-document.write('');
-document.write('    ');
-document.write('');
-document.write('                <div class="form-white-background">');
-document.write('');
-document.write('                    <div class="form-title-row">');
-document.write('                        <h1>Log in</h1>');
-document.write('                    </div>');
-document.write('');
-document.write('                    <div class="form-row">');
-document.write('                          ');
+const url = new URL(
+    "https://osu.ppy.sh/oauth/token"
+);
+
+let headers = {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+};
+
+let body = {
+    "client_id": 18792,
+    "client_secret": "clientsecret",
+    "code": "receivedcode",
+    "grant_type": "authorization_code",
+    "redirect_uri": "https://milotilo.ddns.net/peppypedia",
+    "scope": "public"
+}
+
+fetch(url, {
+    method: "POST",
+    headers,
+    body: JSON.stringify(body),
+}).then(response => response.json());
