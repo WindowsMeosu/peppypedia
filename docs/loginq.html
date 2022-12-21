@@ -1,0 +1,26 @@
+<script>
+const url = new URL(
+    "https://osu.ppy.sh/oauth/token"
+);
+
+let headers = {
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+};
+
+let body = {
+    "client_id": 18792,
+    "client_secret": "clientsecret",
+    "code": "def5020089340176d14323ddb26b5d4bd12058e7cc200c9af0d4aaa071ecf8687a2da4a654e165636726367c349784c188c7bfecb78002ec5f4c9e42d6ca68e1f754165e74182d0b67c15616cc053ea12ced4cd6c2c79404cba0340f0c4d9a37251adbecba311dcd3d95b1aa895c356557b5896b715558e1a79f16d0bbe8665ae995abf82d953f738b0617dd3eba352fca221ca64517ae2410672b275a08315b7a21ad7cfd272e89cac1d94f219aba98ebbe8259e4e43c8b23e86f2a794630ba48d6fb3d899f325d6ed0e999e06c7163f9ae7273dd6a8500286b63e01cdce406fb1fcb7a48fdcbb203e227bc0a2aff60014a8ad6dbe72e647c66e776935c88f68b2a7775f9a365bbcfc496cd0bcac45e179b3e6f04f0a609419c71759ad691d343c12394a0beac35dc075604664cd065c8c8386dba6827c464d4769fb0829d639ece8add7541b180d726002fd57d5afe763b3753d36f55d6e19485dbd8a5aec45903d0cb33d4906fe9e67a18bd40ab2f2d1abd4f87fa50c7675397349f3b14571ef8",
+    "grant_type": "authorization_code",
+    "redirect_uri": "https://milotilo.ddns.net/peppypedia",
+    "scope": "public"
+}
+
+fetch(url, {
+    method: "POST",
+    headers,
+    body: JSON.stringify(body),
+}).then(response => response.json());
+</script>
+<p>Login attempted</p>
