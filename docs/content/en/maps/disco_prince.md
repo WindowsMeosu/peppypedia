@@ -30,3 +30,23 @@ The first beatmap uploaded is Disco Prince, the first beatmap made for osu! was 
 </table>
 
 Note: this article is either inaccurate or completely wrong, no citations are shown. This page was first added [here](https://github.com/WindowsMeosu/peppypedia-old/blob/master/_posts/maps:Disco%20Prince.md).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--[if lt IE 8]>
+    <script type="text/javascript">
+        document.location.href="unsupported_browsererror.html";
+    </script>
+<![endif]-->

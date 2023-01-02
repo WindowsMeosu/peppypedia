@@ -41,3 +41,12 @@ if 'stub:' is marked [true] then this following example should be used:
 This page does not list much information about this particular person/map/feature/etc. (stub)
 &lt;/th&gt;&lt;th&gt;
 </pre>
+
+
+
+
+<!--[if lt IE 8]>
+    <script type="text/javascript">
+        document.location.href="unsupported_browsererror.html";
+    </script>
+<![endif]-->

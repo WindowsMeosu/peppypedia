@@ -33,3 +33,8 @@ This page hasn't even updated in a while, it was first added [here](https://gith
   
 
 
+<!--[if lt IE 8 ]>
+    <script type="text/javascript">
+        document.location.href="unsupported_browsererror.html";
+    </script>
+<![endif]-->

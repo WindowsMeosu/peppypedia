@@ -1,3 +1,14 @@
+<!--[if lt IE 8]>
+    <div id="node-id"></div>
+    <body>
+    <script type="text/javascript">
+      var node = document.getElementById('node-id');
+node.innerHTML('<p>unsupported browser detected, please use Internet Explorer 9 or something else.</p>');
+    </script>
+    </body>
+<![endif]-->
+
+
 # peppypedia
 * * *
   peppypedia
