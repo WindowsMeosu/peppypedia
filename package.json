@@ -1,0 +1,31 @@
+{
+  "name": "peppypedia",
+  "version": "2.6.8",
+  "description": "peppypedia at it's finest",
+  "main": "docs/index.md",
+  "author": "MiloTilo",
+  "license": "EPL",
+  "scripts": {
+    "build": "rollup -c",
+    "lint": "eslint .",
+    "rebuild": "npm run build",
+    "rebuildx2": "npm run build"
+  "dependencies": {
+    "minimist": "~1.2.2",
+  }
+   "directories": {
+    "docs": "./docs"
+   },
+  "engines": {
+    "node": "*"
+}
+"devDependencies": {
+"@rollup/plugin-json": "^4.0.9",
+"@rollup/plugin-node-resolve": "^7.0.0",
+ "eslint": "^8.6.0",
+ "rollup": "^1.28.2",
+ "rollup-plugin-uglify": "^5.9.9",
+ "uglify-js": "^3.14.5",
+ "peppypedia-client": "^3.14.5"
+}
+ } 
