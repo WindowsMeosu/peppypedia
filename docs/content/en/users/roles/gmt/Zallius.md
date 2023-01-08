@@ -38,11 +38,3 @@ Country
 Heard Island and McDonald Islands (Australia)</th></tr></tbody></table>
 
 </th></tr></tbody></table>
-
-
-
-<!--[if lt IE 8]>
-    <script type="text/javascript">
-        document.location.href="unsupported_browsererror.html";
-    </script>
-<![endif]-->
