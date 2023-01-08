@@ -13,19 +13,14 @@ exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md", "404.md"]
 ga_tracking: G-737VMDEJJQ
 ga_tracking_anonymize_ip: true
 plugins:
-  - jekyll-seo-tag
-  - jekyll-asciidoc
+
   - jekyll-toc
   - jekyll-wiki
-  - jekyll-mediawiki
   - jekyll-avatar
-  - jekyll-coffeescript
   - jekyll-default-layout
   - jekyll-feed
   - jekyll-gist
-  - jekyll-paginate
   - jekyll-mentions
-  - jekyll-optional-front-matter
   - jekyll-readme-index
   - jekyll-redirect-from
   - jekyll-remote-theme
@@ -38,11 +33,4 @@ logo: /assets/images/ppypedialogo.png
 feed_items: 90
 feed_update_period: daily
 feed_update_frequency: 2
-disable_edit: false
-show_wiki_pages: true
-show_wiki_pages_limit: 10
-blog_feature: true
-show_wiki_posts: true
-show_wiki_posts_limit: 10
-use_prose_io: true
 site_root: ./docs
