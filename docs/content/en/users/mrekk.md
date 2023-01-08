@@ -13,8 +13,6 @@ peppypedia-current: [true]
 <table>
 <tbody><tr>
 <th>
-This page does not list much information about this particular person/map/feature/etc. (stub)
-</th><th>
 
 # mrekk
 
@@ -36,9 +34,3 @@ Country
 Australia</th></tr></tbody></table>
 
 </th></tr></tbody></table>
-
-<!--[if lt IE 8]>
-    <script type="text/javascript">
-        document.location.href="unsupported_browsererror.html";
-    </script>
-<![endif]-->
