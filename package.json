@@ -1,6 +1,6 @@
 {
   "name": "peppypedia",
-  "version": "2.6.8",
+  "version": "1.0.0",
   "description": "peppypedia at it's finest",
   "reposority":  "github:windowsmeosu/peppypedia"
   "main": "./docs",
@@ -16,4 +16,3 @@
   "engines": {
     "node": "*"
 }
- } 
