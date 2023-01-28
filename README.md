@@ -9,3 +9,27 @@ If you use gitlab instead of github please go here:
 https://gitlab.com/milotilo/peppypedia/-/blob/main/README.md
 
 This repo is maintained by WindowsMeosu
+
+
+clone or fork this for whatever needs suit you best, to contribute, to mirror peppypedia to make or run your own so-called "peppypedia", etc, etc, etc, etc.
+```
+git clone https://github.com/WindowsMeosu/peppypedia
+```
+```
+git clone https://github.com/WindowsMeosu/peppypedia.git
+```
+```
+git clone ssh://github.com/WindowsMeosu/peppypedia
+```
+```
+sudo git clone https://github.com/WindowsMeosu/peppypedia
+```
+```
+git clone github:/WindowsMeosu/peppypedia
+
+a example:
+
+![image](https://user-images.githubusercontent.com/104236864/215295015-4429f673-128b-492b-b822-9a692604041c.png)
+
+
+
