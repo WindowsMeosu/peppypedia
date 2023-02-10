@@ -11,7 +11,7 @@ A list of most supported browsers for peppypedia:
 * GNU IceCat
 * Any modern browser
 
-Note: on 12/25/2022, the ability to visit articles on this site under IE9 will be forbidden.
+Note: peppypedia on IE-8 and under does not handle well.
 
 
 
@@ -26,8 +26,3 @@ Note: on 12/25/2022, the ability to visit articles on this site under IE9 will b
 
 
 
-<!--[if IE 11]>
-    <script type="text/javascript">
-        document.location.href="unsupported_browsererror.html";
-    </script>
-<![endif]-->
