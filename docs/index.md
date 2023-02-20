@@ -1,7 +1,7 @@
 # peppypedia
 * * *
 #### if you have any problems please contact us via [our own embedded IRC.](content/en/peppypedia/peppypedia%3Achat.html)
-#### [![If that doesn't work (I'll implement a chatra some time because that doesn't have rate-limited websockets.l](https://kiwiirc.com/buttons/irc.libera.chat/peppypedia.png)](https://kiwiirc.com/client/irc.libera.chat/?nick=guest|?&theme=cli#peppypedia)
+#### [![If that doesn't work (I'll implement a chatra some time because that doesn't have rate-limited websockets.l](https://kiwiirc.com/buttons/irc.libera.chat/peppypedia.png)](https://kiwiirc.com/client/irc.libera.chat/?nick=guest|?&theme=cli##peppypedia)
   peppypedia
       reworked version (0.0.2) (current [release](https://github.com/WindowsMeosu/peppypedia-old/releases/tag/v.0.2-beta.6.7))
     
