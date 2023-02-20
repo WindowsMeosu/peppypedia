@@ -1,5 +1,6 @@
 # peppypedia
 * * *
+#### if you have any problems please contact us via [our own embedded IRC.](content/en/peppypedia/peppypedia%3Achat.html)
   peppypedia
       reworked version (0.0.2) (current [release](https://github.com/WindowsMeosu/peppypedia-old/releases/tag/v.0.2-beta.6.7))
     
