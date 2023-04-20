@@ -3,9 +3,7 @@
 
 * * *
   peppypedia
-      reworked version (0.0.2)
-      
-  * Note: the date is determined by last commit (excluding minor commits) and not determined by when the page was created
+      reworked version (0.0.1)
    
    * * *
 
