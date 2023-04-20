@@ -1,0 +1,19 @@
+onsole:
+  ui:
+    url: milotilo.ddns.net # TO UPDATE WITH YOUR OWN URL
+  api:
+    url: milotilo.ddns.net # TO UPDATE WITH YOUR OWN URL
+
+cockpit:
+  enabled: true
+  ws:
+    endpoints:
+      - https://cockpit-controller.gravitee.io/
+  keystore:
+    type: PKCS12
+    path: ${gravitee.home}/secured/f1738b4a-2319-484f-b38b-4a2319f84f0d-cert.p12
+    password: 61edc392-e444-4bbb-adc3-92e4444bbb7c
+  truststore:  
+    type: PKCS12
+    path: ${gravitee.home}/secured/cockpit-ca.p12
+    password: YlRBIy@7eXPtLBBvdrl1VArQsgOtx10

@@ -1,37 +1,57 @@
 ---
-title: [jhlee0133]
-lastmod: [2023-03-19]
-categories: [users]
+title: [osu!std]
+lastmod: [2022-10-29]
+categories: [modes]
 menu:
   docs:
-    parent: "users"
-aliases: [false]
+    parent: "modes"
+aliases: [osu!standard, osu!]
 stub: [true]
 peppypedia-jekyll: [false]
 peppypedia-current: [true]
 ---
 <table>
-<tbody><tr>
 <th>
-This page does not list much information about this particular person/map/feature/etc. (stub)
-</th><th>
+  <h1>osu!standard</h1>
+  <hr>
+  osu!, osu!standard or osu!std is the main mode of osu! and it is also the most popular mode as of current. osu!std was developed since the beginning since the game meant was meant to be based off of <p><code>Osu! Tatakae! Ouendan.</code><a href="https://en.wikipedia.org/wiki/Osu!">[1]</a></p>
+  <h3>Notes</h3>
+  <hr>
+  <p> As of today, The current #1 of this mode is mrekk</p>
+  <p> As of today, the former #1 of this mode is WhiteCat</p?
+  </th>
+  
+  </th></tr></tbody></table>
 
-## jhlee0133
+### references:
 
----
+* Hobbs, L. (2021, January 14). osu! online rankings history. Online rankings history / osu! rankings history · wiki | osu! Retrieved December 2, 2022, from https://osu.ppy.sh/wiki/en/History_of_osu%21/Online_rankings/osu%21
 
-jhlee0133 was #1 of osu!mania up until 2017[[need better sources]](https://www.reddit.com/r/osugame/comments/62r7vh/jhlee0l33_is_now_1_in_osumania_ranking_taking/[) and according to profile date, was last seen on November 12, 2017.[[1]](https://osu.ppy.sh/users/140148)
 
-<table>
-<tbody><tr>
-<th>
-CountryRank
-</th><th>
-unranked/drafted
-</th></tr><tr>
-<th>
-Country
-</th><th>
-South Korea</th></tr></tbody></table>
 
-</th></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--[if lt IE 8]>
+    <script type="text/javascript">
+        document.location.href="unsupported_browsererror.html";
+    </script>
+<![endif]-->
