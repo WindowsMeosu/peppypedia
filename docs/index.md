@@ -1,4 +1,6 @@
+
 # peppypedia
+
 * * *
   peppypedia
       reworked version (0.0.2)
@@ -34,5 +36,5 @@
 
 
 Themes:
-* peppypediaplus (WIP, unused for now)
+* peppyqq
 * minima (on peppypedia-old)
