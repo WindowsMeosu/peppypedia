@@ -1,0 +1,5 @@
+# Add 'repo' label to any docs file changes
+repo:
+- '*'
+docs:
+- docs/**/*
