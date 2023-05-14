@@ -34,16 +34,6 @@ plugins:
   - jekyll-titles-from-headings
   - jemoji
 
-logo: /assets/images/ppypedialogo.png
-feed_items: 90
-feed_update_period: daily
-feed_update_frequency: 2
-disable_edit: false
-show_wiki_pages: true
-show_wiki_pages_limit: 10
-blog_feature: true
-show_wiki_posts: true
-show_wiki_posts_limit: 10
-use_prose_io: true
+paginate: 5
 site_root: ./docs
-favicon: favicon.ico
+
