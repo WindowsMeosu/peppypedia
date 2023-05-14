@@ -1,5 +1,5 @@
 remote_theme: just-the-docs/just-the-docs
-color_scheme: dark  
+color_scheme: dark
 markdown: GFM
 
 defaults:
@@ -9,7 +9,19 @@ logo: /assets/images/ppypedialogo.png
 feed_items: 90
 feed_update_period: daily
 feed_update_frequency: 2
-exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md", "404.md", "/templates/*", templates/*, osu!mania.md, non-existant, docs/content/en/modes/osu!/osu!.md!]
+exclude:
+  [
+    "sitemap.xml",
+    "feed.xml",
+    "LICENSE",
+    "README.md",
+    "404.md",
+    "/templates/*",
+    templates/*,
+    osu!mania.md,
+    non-existant,
+    docs/content/en/modes/osu!/osu!.md!,
+  ]
 ga_tracking: G-737VMDEJJQ
 ga_tracking_anonymize_ip: true
 plugins:
@@ -36,4 +48,3 @@ plugins:
 
 paginate: 5
 site_root: ./docs
-
