@@ -33,7 +33,12 @@ plugins:
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jemoji
-
+feed_items: 90
+feed_update_period: daily
+feed_update_frequency: 2
+collections:
+categories: user, content, events, users, maps
+output: true
 paginate: 5
 site_root: ./docs
 

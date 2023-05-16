@@ -1,7 +1,7 @@
 ---
 title: [cavoe's osu! event]
 lastmod: [2023-04-30]
-categories: [events/COE.md]
+categories: [events]
 menu:
   docs:
     parent: "events"
