@@ -21,6 +21,9 @@
 
    peppypedia has been visited over <a href="https://info.flagcounter.com/RKXq"><img src="https://s01.flagcounter.com/mini/RKXq/bg_B5B5B5/txt_000000/border_1BCCCC/flags_0/" alt="Flag Counter" border="0"></a> times. (any visits before 12/01/2022 do not count.)
 
+| users: | <https://windowsmeosu.github.io/peppypedia/content/en/users/WhiteCat> |
+| --- | --- |
+
 | users: | <https://windowsmeosu.github.io/peppypedia/content/en/users/jhlee0133> |
 | --- | --- |
 
@@ -33,10 +36,10 @@
 | users: | <https://windowsmeosu.github.io/peppypedia/content/en/users/roles/gmt/Zallius> |
 | --- | --- |
 
-| users: | <https://windowsmeosu.github.io/peppypedia/content/en/users/WhiteCat> |
+| modes: | [https://windowsmeosu.github.io/peppypedia/content/en/modes/osu!](https://windowsmeosu.github.io/peppypedia/content/en/modes/osu!) |
 | --- | --- |
 
-| modes: | [https://windowsmeosu.github.io/peppypedia/content/en/modes/osu!](https://windowsmeosu.github.io/peppypedia/content/en/modes/osu!) |
+| 02/23/2023: | user/BlackDog5 |
 | --- | --- |
 
 | 03/19/2023: | user/jhlee0133 |
@@ -49,9 +52,6 @@
 | --- | --- |
 
 | 10/24/2022: | user/roles/gmt/Zallius |
-| --- | --- |
-
-| 11/11/2022: | user/WhiteCat |
 | --- | --- |
 
 | 11/03/2022: | user/roles/gmt/deleted |
