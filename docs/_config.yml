@@ -47,3 +47,4 @@ show_wiki_posts_limit: 10
 use_prose_io: true
 site_root: ./docs
 favicon: favicon.ico
+plugins: plugins
