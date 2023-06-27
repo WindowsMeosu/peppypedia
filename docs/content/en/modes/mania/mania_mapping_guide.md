@@ -44,7 +44,7 @@ A trill is a pattern that consists of 1-2-1-2 or 3-4-3-4 (or even 2-4, 2-4 or so
 
 
 Handstream:
-   <video width="640" height="320" src="./html5/handstream.webm" poster="./html5/handstream.png" controls>
+   <video width="640" height="320" src="./html5/handstream.webm" poster="./html5/handstream.jpg" controls>
     Fallback message if your browser doesn't support HTML5 video.
     </video>
     
