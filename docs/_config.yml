@@ -34,13 +34,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jemoji
-  - video_tag
-  - jekyll-video_tag
-  - videotag
-  - video-tag
-  - jekyll_video-tag
-  - html5video
-  - ../plugins
 logo: /assets/images/ppypedialogo.png
 feed_items: 90
 feed_update_period: daily
