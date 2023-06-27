@@ -31,3 +31,4 @@ git clone github:/WindowsMeosu/peppypedia
 a example:
 
 ![image](https://user-images.githubusercontent.com/104236864/215295015-4429f673-128b-492b-b822-9a692604041c.png) (this image is taken by qwrmolly, yep, i got yelled to include credit for a screenshot)
+
