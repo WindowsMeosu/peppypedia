@@ -60,4 +60,3 @@ module Jekyll
   
   Liquid::Template.register_tag('video', Jekyll::VideoTag)
   
-  
