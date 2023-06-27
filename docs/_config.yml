@@ -13,6 +13,7 @@ exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md", "404.md"]
 ga_tracking: G-737VMDEJJQ
 ga_tracking_anonymize_ip: true
 plugins:
+  - ./plugins
   - jekyll-seo-tag
   - jekyll-asciidoc
   - jekyll-toc
@@ -33,7 +34,13 @@ plugins:
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jemoji
-
+  - video_tag
+  - jekyll-video_tag
+  - videotag
+  - video-tag
+  - jekyll_video-tag
+  - html5video
+  - ../plugins
 logo: /assets/images/ppypedialogo.png
 feed_items: 90
 feed_update_period: daily
