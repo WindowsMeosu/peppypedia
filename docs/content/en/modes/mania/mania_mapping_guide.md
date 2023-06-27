@@ -42,4 +42,4 @@ A trill is a pattern that consists of 1-2-1-2 or 3-4-3-4 (or even 2-4, 2-4 or so
 
 ## See also
 
-{% video https://milotilo.ddns.net/peppypedia/content/en/modes/mania/html5/handstream.mp4 640 320 https://milotilo.ddns.net/peppypedia/content/en/modes/mania/html5/handstream.png %}
+{% video https://raw.githubusercontent.com/WindowsMeosu/peppypedia/testing/docs/content/en/modes/mania/html5/handstream.mp4 640 320 https://raw.githubusercontent.com/WindowsMeosu/peppypedia/testing/docs/content/en/modes/mania/html5/handstream.png %}
