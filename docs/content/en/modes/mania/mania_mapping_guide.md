@@ -40,11 +40,6 @@ LN streams can be both jumpstream and handstream but mapped via holds. Not reall
 
 A trill is a pattern that consists of 1-2-1-2 or 3-4-3-4 (or even 2-4, 2-4 or so on).
 
-## See also 
-
-
-Handstream:
-   <video width="640" height="320" src="./html5/handstream.mp4" poster="./html5/handstream.jpg" controls>
-    Fallback message if your browser doesn't support HTML5 video.
-    </video>
-    
+## See also:
+content has been removed for memory issues, most of it has been archived on archive.today.
+https://archive.ph/EGQX2
