@@ -2,9 +2,9 @@ remote_theme: just-the-docs/just-the-docs
 color_scheme: dark  
 markdown: GFM
 
-defaults:
-  - scope:
-      permalink: /content/en/:title/
+#defaults:
+ # - scope:
+     # permalink: /content/en/:title/
 logo: /assets/images/ppypedialogo.png
 feed_items: 90
 feed_update_period: daily

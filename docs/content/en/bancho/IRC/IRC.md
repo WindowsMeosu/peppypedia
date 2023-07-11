@@ -61,8 +61,4 @@ ___
 
 The person who programmed BanchoBot and maintained the IRC protocol used for Bancho was [Echo](https://osu.ppy.sh/users/431), It is unknown whether they are still involved with the development of Bancho considering Echo's profile has the role of Alumini.[[4]](https://osu.ppy.sh/wiki/en/BanchoBot)[[5]](https://osu.ppy.sh/wiki/en/Bancho_%28server%29)[[2]](https://osu.ppy.sh/wiki/en/Community/Internet_Relay_Chat)[[7]](https://osu.ppy.sh/wiki/en/History_of_osu%21/2007#november)
 
-### Trivia:
 
-- When utilizing `!where`, a chat command that displays the location of the individual on whom it was used. Whenever used on BanchoBot or Logbot(presumably an In-game alias for BanchoBot), the response will be: "`cho.ppy.sh`".
-  - When used on a currently online user that isn't the aforementioned usernames (BanchoBot or Logbot), the response should be: "`Windows Me is in Netherlands`".
-    - BanchoBot is connected to Bancho via IRC, hence the former's response.
