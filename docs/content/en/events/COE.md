@@ -29,4 +29,4 @@ canoe's osu! event or COE is a event hosted in the Netherlands.[^1] COE was foun
 
 [^3]: [canoeboy. | Faq.](https://cavoeboy.com/faq)
 
-[^4]: [Wikipedia. | osu!]((https://en.wikipedia.org/wiki/Osu!))
+[^4]: [Wikipedia. | osu!](https://en.wikipedia.org/wiki/Osu!)
