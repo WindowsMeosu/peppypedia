@@ -1,5 +1,5 @@
 ## <tr>
-<b><i>peppypedia is temporary under feature-`testing`. If something isn't right, create a [issue](https://github.com/WindowsMeosu/peppypedia/issues). Please see: [#41](https://github.com/WindowsMeosu/peppypedia/pull/41).</b></i>
+<b><i>peppypedia is temporary under feature-`testing`. If something isn't right, create an [issue](https://github.com/WindowsMeosu/peppypedia/issues). Please see: [#41](https://github.com/WindowsMeosu/peppypedia/pull/41).</b></i>
 </tr>
 
 # peppypedia
