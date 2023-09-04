@@ -7,7 +7,8 @@ menu:
     parent: "modes"
 aliases: [osu!standard, osu!]
 stub: [true]
-peppypedia-jekyll: [false]
+PRexception: [tag41]
+peppypedia-old: [html-like]
 peppypedia-current: [true]
 ---
 <table>
@@ -18,7 +19,7 @@ peppypedia-current: [true]
   <h3>Notes</h3>
   <hr>
   <p> As of today, The current #1 of this mode is mrekk</p>
-  <p> As of today, the former #1 of this mode is WhiteCat</p?
+  <p> As of today, the former #1 of this mode is WhiteCat</p>
   </th>
   
   </th></tr></tbody></table>
@@ -42,16 +43,4 @@ peppypedia-current: [true]
 
 
 
-
-
-
-
-
-
-
-
-<!--[if lt IE 8]>
-    <script type="text/javascript">
-        document.location.href="unsupported_browsererror.html";
-    </script>
-<![endif]-->
+<!-- TODO: rework article

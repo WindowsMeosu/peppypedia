@@ -7,7 +7,8 @@ menu:
     parent: "users"
 aliases: [ppy]
 stub: [true]
-peppypedia-jekyll: [true]
+PRexception: [tag41]
+peppypedia-old: [true, html-like]
 peppypedia-current: [true]
 ---
 <table>
@@ -31,10 +32,4 @@ This page hasn't even updated in a while, it was first added [here](https://gith
  
   
   
-
-
-<!--[if lt IE 8 ]>
-    <script type="text/javascript">
-        document.location.href="unsupported_browsererror.html";
-    </script>
-<![endif]-->
+<!-- TODO: rework -->
