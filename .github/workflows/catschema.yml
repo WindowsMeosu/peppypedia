@@ -17,8 +17,9 @@ jobs:
      -  run: echo checking schema
      -  uses: actions/checkout@v3
      - name: deploy
-     - run: echo checking schema
+     - run: echo schema check2 
+     - uses: WindowsMeosu/catworks@v1
      - run: echo deploying...
      - run: echo deployed.
      - run: ./deploy.sh
-     - uses: ./deploy.sh
+  
