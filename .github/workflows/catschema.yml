@@ -13,7 +13,9 @@ jobs:
     environment: cat
     url: https://milotilo.ddns.net/peppypediadata/page_schema.xsd
     steps:
-     -  name: checking schema
+     - name: checking schema
      -  run: echo checking schema
-      # var cat = require('xsd'), dom = require('@xmldom/xmldom').DOMParser
-      - name: deploy
+     - name: deploy
+     - run: echo checking schema
+     - run: echo deploying...
+     - run: echo deployed.
