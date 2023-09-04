@@ -8,14 +8,7 @@ on:
     options:
       - pass
       - fail
-    catsch:
-        description: 'catschema'
-        required: false
-        type: boolean
-    environment:
-        description: ''
-        type: environment
-        required: true
+      
 jobs:
   deployment:
     runs-on: ubuntu-latest
