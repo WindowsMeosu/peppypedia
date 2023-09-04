@@ -20,7 +20,7 @@ This page does not list much information about this particular person/map/featur
 
 ---
 
-jhlee0133 was #1 of osu!mania up until 2017<x>[^need&#160;better&#160;sources]</x> and according to profile date, was last seen on November 12, 2017.[^2]
+jhlee0133 was #1 of osu!mania up until 2017[^need&nbsp;better&nbsp;sources] and according to profile date, was last seen on November 12, 2017.[^2]
 
 <table>
 <tbody><tr>
@@ -36,6 +36,6 @@ South Korea</th></tr></tbody></table>
 
 </th></tr></tbody></table>
 
-[^better&#160;sources&#160;needed]: [Reddit | r/osugame:  jhlee0l33 is now #1 in osu!mania ranking, taking over jhlee0133!](<https://www.reddit.com/r/osugame/comments/62r7vh/jhlee0l33_is_now_1_in_osumania_ranking_taking/>).
+[^better&nbsp;sources&nbsp;needed]: [Reddit | r/osugame:  jhlee0l33 is now #1 in osu!mania ranking, taking over jhlee0133!](<https://www.reddit.com/r/osugame/comments/62r7vh/jhlee0l33_is_now_1_in_osumania_ranking_taking/>).
 
 [^2]: [osu! | jhlee0133](<https://osu.ppy.sh/users/140148>).
