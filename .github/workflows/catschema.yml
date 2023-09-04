@@ -8,11 +8,11 @@ on:
     options:
       - pass
       - fail
-      catsch:
+    catsch:
         description: 'catschema'
         required: false
         type: boolean
-      environment:
+    environment:
         description: ''
         type: environment
         required: true
