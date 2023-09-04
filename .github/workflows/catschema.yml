@@ -13,13 +13,12 @@ jobs:
     environment: cat
     url: https://milotilo.ddns.net/peppypediadata/page_schema.xsd
     steps:
-     - name: Checkout
+     - name: checking schema
      -  run: echo checking schema
-     - uses: actions/checkout@v3
+     -  uses: actions/checkout@v3
      - name: deploy
      - run: echo checking schema
      - run: echo deploying...
-     - run: cd ./deploy.sh
-     - run: echo now deploying
+     - run: echo deployed.
      - run: ./deploy.sh
-
+     - uses: ./deploy.sh
