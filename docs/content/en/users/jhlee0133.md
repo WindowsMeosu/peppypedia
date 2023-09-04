@@ -36,6 +36,6 @@ South Korea</th></tr></tbody></table>
 
 </th></tr></tbody></table>
 
-[^better&nbsp;sources&nbsp;needed]: [Reddit | r/osugame:  jhlee0l33 is now #1 in osu!mania ranking, taking over jhlee0133!](<https://www.reddit.com/r/osugame/comments/62r7vh/jhlee0l33_is_now_1_in_osumania_ranking_taking/>).
+[^better&#160;sources&#160;needed]: [Reddit | r/osugame:  jhlee0l33 is now #1 in osu!mania ranking, taking over jhlee0133!](<https://www.reddit.com/r/osugame/comments/62r7vh/jhlee0l33_is_now_1_in_osumania_ranking_taking/>).
 
 [^2]: [osu! | jhlee0133](<https://osu.ppy.sh/users/140148>).
