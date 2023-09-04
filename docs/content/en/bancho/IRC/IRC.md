@@ -14,9 +14,6 @@ peppypedia-current: [true]
 langauge: [english]
 ---
 <p hidden> I am aware of the multiple grammar issues present in this article, as it was somewhat rushed and I'm too lazy right now to be bothered (slightly because I didn't sleep at all last night).</p>
-
-<!-- TODO: probably remove the "Trivia" section in the future and replace it with an section for citations.-->
-
 <table>
 <tbody><tr>
 <th>
@@ -38,7 +35,7 @@ langauge: [english]
 
 ## Interent Relay Chat
 
-Internet Relay Chat, better known and mostly abbreviated as IRC, is a text-based chat protocol first introduced in 1988.[[1]](https://en.wikipedia.org/wiki/Internet_Relay_Chat) The chat protocol used Bancho is IRC and can be connected to via an IRC client such as HexChat.[[2]](https://osu.ppy.sh/wiki/en/Community/Internet_Relay_Chat) 
+Internet Relay Chat, better known and mostly abbreviated as IRC, is a text-based chat protocol first introduced in 1988.[^1] The chat protocol used Bancho is IRC and can be connected to via an IRC client such as HexChat.[^2]
 
 ### Connecting to osu!Bancho:
 
@@ -59,6 +56,18 @@ ___
 
 ### History
 
-The person who programmed BanchoBot and maintained the IRC protocol used for Bancho was [Echo](https://osu.ppy.sh/users/431), It is unknown whether they are still involved with the development of Bancho considering Echo's profile has the role of Alumini.[[4]](https://osu.ppy.sh/wiki/en/BanchoBot)[[5]](https://osu.ppy.sh/wiki/en/Bancho_%28server%29)[[2]](https://osu.ppy.sh/wiki/en/Community/Internet_Relay_Chat)[[7]](https://osu.ppy.sh/wiki/en/History_of_osu%21/2007#november)
+The person who programmed BanchoBot and maintained the IRC protocol used for Bancho was [Echo](https://osu.ppy.sh/users/431), It is unknown whether they are still involved with the development of Bancho considering Echo's profile has the role of Alumini.[^3][^2][^4][^5]
 
+</table>
+</tbody></tr>
+</th>
 
+[^1]: [Wikipedia | Internet Relay Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat).
+
+[^2]: [osu! Wiki | Internet Relay Chat](https://osu.ppy.sh/wiki/en/Community/Internet_Relay_Chat).
+
+[^3]: [osu! Wiki | BanchoBot](https://osu.ppy.sh/wiki/en/BanchoBot).
+
+[^4]: [osu! Wiki | Bancho (server)](https://osu.ppy.sh/wiki/en/Bancho_(server)).
+
+[^5]: [osu! Wiki | History of osu! 2007 | November](https://osu.ppy.sh/wiki/en/History_of_osu!/2007#november).

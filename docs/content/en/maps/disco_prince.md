@@ -7,7 +7,7 @@ menu:
     parent: "maps"
 aliases: [false]
 stub: [true]
-peppypedia-jekyll: [true]
+peppypedia-old: [true]
 peppypedia-current: [true]
 allowed_elements: ["table", "tr", "td", "th"]
 ---
@@ -26,8 +26,11 @@ Disco Prince was the first map uploaded with the beatmap submission system, (not
 
 ## Notes
 
-The first beatmap uploaded is Disco Prince, the first beatmap made for osu! was Ai Uta. (<https://osu.ppy.sh/beatmapsets/1184#osu/16717>)
+The first beatmap uploaded is Disco Prince, the first beatmap made for osu! was Ai Uta.[^note]
 
 </table>
+</tbody>
+</tr>
+</th>
 
-Note: this article is either inaccurate or completely wrong, no citations are shown. This page was first added [here](https://github.com/WindowsMeosu/peppypedia-old/blob/master/_posts/maps:Disco%20Prince.md).
+[^note]: this article is either inaccurate or completely wrong, no citations are shown. This page was first added [here](<https://github.com/WindowsMeosu/peppypedia-old/blob/master/_posts/maps:Disco%20Prince.md>).

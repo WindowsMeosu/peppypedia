@@ -23,12 +23,12 @@ canoe's osu! event or COE is a yearly event hosted in the Netherlands.[^1] COE w
 </tr>
 </th>
 
-[^1]: [Walavouchey. COE 2023 Ticket Sales Live. osu! "osu! news.](https://osu.ppy.sh/home/news/2023-04-27-coe-2023-ticket-sales-live)
+[^1]: [Walavouchey. COE 2023 Ticket Sales Live. osu! "osu! news.](<https://osu.ppy.sh/home/news/2023-04-27-coe-2023-ticket-sales-live>)
 
-[^2]: [Wikipedia. | Brabanthallen, located at s' Hertogenbosh, Netherlands.](https://en.wikipedia.org/wiki/Brabanthallen)
+[^2]: [Wikipedia. | Brabanthallen, located at s' Hertogenbosh, Netherlands.](<https://en.wikipedia.org/wiki/Brabanthallen>)
 
-[^3]: [canoeboy. | Faq.](https://cavoeboy.com/faq)
+[^3]: [canoeboy. | Faq.](<https://cavoeboy.com/faq>)
 
-[^4]: [Wikipedia. | osu!](https://en.wikipedia.org/wiki/Osu!)
+[^4]: [Wikipedia. | osu!](<https://en.wikipedia.org/wiki/Osu!>)
 
 [^note]: The attendees list is only available whenever tickets are available to purchase. At the time of writing, tickets are no longer available for purchase.
