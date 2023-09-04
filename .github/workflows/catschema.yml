@@ -1,0 +1,21 @@
+name: cat
+
+on:
+  push:
+    branches:
+      - master
+      - testing
+      - testingv2
+
+jobs:
+  deployment:
+    runs-on: ubuntu-latest
+    environment: cat
+    url: https://milotilo.ddns.net/peppypediadata/page_schema.xsd
+    steps:
+     - name: checking schema
+     -  run: echo checking schema
+     - name: deploy
+     - run: echo checking schema
+     - run: echo deploying...
+     - run: echo deployed.

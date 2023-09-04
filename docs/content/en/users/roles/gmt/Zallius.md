@@ -9,7 +9,8 @@ aliases: [false]
 user-title: [Boats]
 role: [GMT]
 stub: [true]
-peppypedia-jekyll: [false]
+PRexception: [tag41]
+peppypedia-old: [html-like]
 peppypedia-current: [true]
 ---
 
@@ -41,8 +42,4 @@ Heard Island and McDonald Islands (Australia)</th></tr></tbody></table>
 
 
 
-<!--[if lt IE 8]>
-    <script type="text/javascript">
-        document.location.href="unsupported_browsererror.html";
-    </script>
-<![endif]-->
+<!-- TODO: rework -->
