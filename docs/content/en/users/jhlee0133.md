@@ -20,7 +20,7 @@ This page does not list much information about this particular person/map/featur
 
 ---
 
-jhlee0133 was #1 of osu!mania up until 2017[^need&nbsp;better&nbsp;sources] and according to profile date, was last seen on November 12, 2017.[^2]
+jhlee0133 was #1 of osu!mania up until 2017[^better&#160;sources&#160;needed] and according to profile date, was last seen on November 12, 2017.[^2]
 
 <table>
 <tbody><tr>
