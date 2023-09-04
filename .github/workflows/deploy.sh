@@ -1,0 +1,2 @@
+#!/bin/bash
+curl "https://milotilo.ddns.net/peppypediadata/page_schema.xsd" -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8" -H "Accept-Language: en-US,en;q=0.5" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Sec-Fetch-Dest: document" -H "Sec-Fetch-Mode: navigate" -H "Pragma: no-cache" -H "Cache-Control: no-cache" --output -O
