@@ -7,7 +7,7 @@ menu:
     parent: "users"
 aliases: [false]
 stub: [true]
-peppypedia-jekyll: [false]
+peppypedia-old: [planned]
 peppypedia-current: [true]
 ---
 <table>

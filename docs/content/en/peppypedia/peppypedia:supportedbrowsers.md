@@ -1,4 +1,5 @@
 ---
+title: peppypedia:Supported browsers
 X-UA-Compatible: [IE=9]
 ---
 # peppypedia:Supported browsers

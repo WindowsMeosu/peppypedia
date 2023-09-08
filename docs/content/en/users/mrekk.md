@@ -7,7 +7,7 @@ menu:
     parent: "users"
 aliases: [sakamata1]
 stub: [false]
-peppypedia-old: [false]
+peppypedia-old: [planned]
 peppypedia-current: [true]
 ---
 <table>

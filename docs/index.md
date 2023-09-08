@@ -1,6 +1,8 @@
 ---
 title: [peppypedia]
 aliases: [index]
+sch_main: true
+peppypedia-old: true
 ---
 <!-- I'm going to lose my fucking mind -->
 <!-- ## <tr> -->

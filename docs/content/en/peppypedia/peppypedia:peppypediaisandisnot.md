@@ -1,3 +1,8 @@
+---
+title: peppypedia:peppypedia is and is not
+important: true
+nav_exclude: true
+---
 # peppypedia is and/or is not
 ### peppypedia is:
 * peppypedia is open-source.

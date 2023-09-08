@@ -8,7 +8,7 @@ menu:
 aliases: [COE]
 role: [false]
 stub: [false]
-peppypedia-jekyll: [false]
+peppypedia-old: [false]
 peppypedia-current: [true]
 ---
 <table>

@@ -8,7 +8,7 @@ menu:
 aliases: [osu!standard, osu!]
 stub: [true]
 PRexception: [tag41]
-peppypedia-old: [html-like]
+peppypedia-old: [true, outdated]
 peppypedia-current: [true]
 ---
 <table>
