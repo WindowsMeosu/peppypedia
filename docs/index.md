@@ -4,7 +4,7 @@ aliases: [index]
 ---
 <!-- I'm going to lose my fucking mind -->
 <!-- ## <tr> -->
-<b><i hidden>peppypedia is temporary under feature-`testing`. If something isn't right, create an [issue](https://github.com/WindowsMeosu/peppypedia/issues). Please see: [#41](https://github.com/WindowsMeosu/peppypedia/pull/41).</b></i>
+<b><i>disqus comments are available [here](https://milotilo.ddns.net/peppypedia/index.html/disqus/index.html).</b></i>
 <!-- </tr> -->
 
 # peppypedia
