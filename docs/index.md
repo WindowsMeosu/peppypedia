@@ -4,7 +4,7 @@ aliases: [index]
 ---
 <!-- I'm going to lose my fucking mind -->
 <!-- ## <tr> -->
-<b><i>disqus comments are available [here](https://milotilo.ddns.net/peppypedia/index.html/disqus/index.html).</b></i>
+<b><i>disqus comments are available [here](https://milotilo.ddns.net/peppypedia/comments/disqus/index.html).</b></i>
 <!-- </tr> -->
 
 # peppypedia
