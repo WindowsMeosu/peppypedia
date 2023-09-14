@@ -20,7 +20,7 @@ aliases: [index]
 #### [![IRC!](https://kiwiirc.com/buttons/irc.libera.chat/peppypedia.png)](https://kiwiirc.com/client/irc.libera.chat/?nick=guest|?&theme=cli##peppypedia)
 
   peppypedia
-      reworked version (0.0.2) (current [release](https://github.com/WindowsMeosu/peppypedia-old/releases/tag/v.0.2-beta.6.7))
+      reworked version (0.0.2) (current [release](https://github.com/WindowsMeosu/peppypedia-old/releases/tag/v.0.2-beta.7.2))
 
     Please use peppypedia-old's github for the actual version date, the changelog will be updated on 12/22/2022.
 
