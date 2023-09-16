@@ -7,7 +7,7 @@ $if404chfailed= "unfortunately failed";
 
 ?>
 <b><i><? echo $debugcheck?></b></i>
-<b><i><? echo $if404chpassed $if404chfailed?></b></i>
+<b><i><? echo $checkif404 $if404chfailed?></b></i>
 <?
 session_abort();
 session_destroy();
