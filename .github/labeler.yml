@@ -1,4 +1,4 @@
-# Add 'repo' label to any docs file changes
+# Add 'repo' label to any non-docs file changes
 repo:
 - '*'
 docs:
