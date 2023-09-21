@@ -11,9 +11,11 @@ permissions:
   contents: read
  # pages: write
   id-token: write
-
- steps:
-      - name: Checkout
-        uses: actions/checkout@master
-        with:
+  jobs:
+    runs-on: ubuntu-latest
+    
+    steps:
+     - name: Checkout
+       uses: actions/checkout@master
+       with:
           submodules: true
