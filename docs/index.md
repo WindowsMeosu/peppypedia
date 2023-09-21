@@ -8,7 +8,7 @@ aliases: [index]
 <!-- </tr> -->
 
 # peppypedia
-
+Starting September 22 (tomorrow), peppypedia will become a year old. On the night of tomorrow, I'll do a simple project tease as well as batch commits to peppypedia-old. To those who supported this project (literally 2 people), thank you. - Milo/Windows Me.
 * * *
 <label for="progress">Full Completion:</label>
 <progress id="progress" value="96.2" max="100"> 96.2%</progress> 
@@ -18,6 +18,7 @@ aliases: [index]
 <progress id="file" value="0.02" max="100"> 2%</progress> 
 
 #### [![IRC!](https://kiwiirc.com/buttons/irc.libera.chat/peppypedia.png)](https://kiwiirc.com/client/irc.libera.chat/?nick=guest|?&theme=cli##peppypedia)
+
 
   peppypedia
       reworked version (0.0.2) (current [release](https://github.com/WindowsMeosu/peppypedia-old/releases/tag/v.0.2-beta.7.2))
