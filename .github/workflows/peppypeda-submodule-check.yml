@@ -12,11 +12,13 @@ permissions:
  # pages: write
   id-token: write
   jobs:
-   deploy:
+   publish:
     runs-on: ubuntu-latest
-    
     steps:
      - name: Checkout
        uses: actions/checkout@master
        with:
           submodules: true
+       steps:
+     - name: endcheck
+       run: echo "endcheck"
