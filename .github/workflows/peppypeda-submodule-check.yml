@@ -12,7 +12,8 @@ permissions:
  # pages: write
   id-token: write
   jobs:
-   publish:
+  - name: endcheck
+  publish:
     runs-on: ubuntu-latest
     steps:
      - name: Checkout
