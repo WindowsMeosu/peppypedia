@@ -10,7 +10,7 @@ user-title: [Boats]
 role: [GMT]
 stub: [true]
 PRexception: [tag41]
-peppypedia-old: [html-like]
+peppypedia-old: [true]
 peppypedia-current: [true]
 ---
 

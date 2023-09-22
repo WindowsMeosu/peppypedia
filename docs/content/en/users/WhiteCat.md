@@ -7,7 +7,7 @@ menu:
     parent: "users"
 aliases: [eZHG, WhiteCat]
 stub: [true]
-peppypedia-jekyll: [false]
+peppypedia-old: [true]
 peppypedia-current: [true]
 ---
 

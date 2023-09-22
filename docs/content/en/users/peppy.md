@@ -8,13 +8,13 @@ menu:
 aliases: [ppy]
 stub: [true]
 PRexception: [tag41]
-peppypedia-old: [true, html-like]
+peppypedia-old: [true]
 peppypedia-current: [true]
 ---
 <table>
   <tr>
     <th>
-     This page is a stub and also is reliable on HTML more than Markdown. This page has a higher chance of being outdated.
+     This page is a stub and relies on HTML more than Markdown. This page has a higher chance of being outdated.
       <th>
 
 <h1>peppy</h1>
