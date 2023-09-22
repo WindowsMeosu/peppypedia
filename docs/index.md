@@ -8,8 +8,13 @@ aliases: [index]
 <!-- </tr> -->
 
 # peppypedia
-Today: the first year anniversary peppypedia!
-Yester: Starting September 22 (tomorrow), peppypedia will become a year old. On the night of tomorrow, I'll do a simple project tease as well as batch commits to peppypedia-old. To those who supported this project (literally 2 people), thank you. - Milo/Windows Me.
+project tease:
+https://github.com/WindowsMeosu/peppypedia/discussions/60
+
+temporary announcements:
+
+Yester: the first year anniversary peppypedia!
+dbef: Starting September 22 (tomorrow), peppypedia will become a year old. On the night of tomorrow, I'll do a simple project tease as well as batch commits to peppypedia-old. To those who supported this project (literally 2 people), thank you. - Milo/Windows Me.
 * * *
 <label for="progress">Full Completion:</label>
 <progress id="progress" value="96.2" max="100"> 96.2%</progress> 
