@@ -17,6 +17,8 @@ peppypedia-current: [true]
 This page does not list much information about this particular person/map/feature/etc. (stub)
 </th><th>
 
+---
+
 # BlackDog5
 
  BlackDog5, formerly known as WhiteCat and ezHG(#4 as of 11/11/22) is a well-known osu! top player who achieved #1 on Oct. 6 2022; however was sniped by mrekk on April, 08 2021.[^1][^2] WhiteCat has changed their username to BlackDog5 on January 19, 2023.[^3]

@@ -18,7 +18,9 @@ allowed_elements: ["table", "tr", "td", "th"]
 This page does not list much information about this particular person/map/feature/etc. (stub)
 </th><th>
 
-# Disco Prince
+---
+
+## Disco Prince
 
 Disco Prince was the first map uploaded with the beatmap submission system, (not the first map to be created with the osu! editor). The mapper is peppy, and the file format is "osu file format v3."
 
