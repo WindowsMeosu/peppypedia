@@ -10,13 +10,17 @@ stub: [false]
 peppypedia-old: [true]
 peppypedia-current: [true]
 ---
+<t><center>[Windows Me](https://osu.ppy.sh/users/28893698)</center>
+<link rel="stylesheet" href="../profile.css"></t>
+
+![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#author "Windows_Me")
+
 <table>
 <tbody><tr>
 <th>
 
 # mrekk
 
----
 mrekk is the current #1 ranked osu! player in performance points who prospered #1 on April, 08, 2020.[^1] He is also the first australian #1 since eyup who peaked #1 in ranked score during 2007.[^2][^3] mrekk also has the curernt performance points record (1371.45pp) thus beating the old record set by aetrna(1356.97pp, 1357 excl. decimals).[^4][^5] As of September 04, 2023, mrekk has won 12 tournament badges.[^6]
 
 

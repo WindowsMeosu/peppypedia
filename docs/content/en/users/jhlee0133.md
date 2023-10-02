@@ -10,6 +10,12 @@ stub: [true]
 peppypedia-old: [true]
 peppypedia-current: [true]
 ---
+
+<t><center>[Windows Me](https://osu.ppy.sh/users/28893698)</center>
+<link rel="stylesheet" href="../profile.css"></t>
+
+![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#author "Windows_Me")
+
 <table>
 <tbody><tr>
 <th>

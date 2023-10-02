@@ -13,6 +13,11 @@ peppypedia-old: [false]
 peppypedia-current: [true]
 langauge: [english]
 ---
+<t><center>[Windows Me](https://osu.ppy.sh/users/28893698)</center>
+<link rel="stylesheet" href="../../profile.css"></t>
+
+![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#author "Windows_Me")
+
 <p hidden> I am aware of the multiple grammar issues present in this article, as it was somewhat rushed and I'm too lazy right now to be bothered (slightly because I didn't sleep at all last night).</p>
 <table>
 <tbody><tr>
