@@ -9,8 +9,6 @@ aliases: [index]
 
 # peppypedia
 
-
- * *
 <label for="progress">Full Completion:</label>
 <progress id="progress" value="96.2" max="100"> 96.2%</progress> 
  <label for="progress2">Stubs:</label>
