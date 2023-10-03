@@ -1,7 +1,7 @@
 ---
-title: [Medals]
+title: Medals
 has_children: true
-permalink: docs/medals
+permalink: content/en/medals
 ---
 
 <t><center>[Windows Me](https://osu.ppy.sh/users/28893698)</center>
