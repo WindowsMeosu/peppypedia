@@ -1,6 +1,7 @@
 ---
 title: [Medals]
 has_children: true
+nav_order: 1
 ---
 <t><center>[Windows Me](https://osu.ppy.sh/users/28893698)</center>
 <link rel="stylesheet" href="../profile.css"></t>
