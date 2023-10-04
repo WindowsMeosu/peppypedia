@@ -19,4 +19,4 @@ parent: Medals
 osu!/osu!taiko/osu!catch/osu!mania: Complete any map with a score above or exactly 1,000,000 where all digits of the score are the same (source: Osekai Medals)[^1]. (e.g 222,222, 555,555.)
 </table>
 
-[^1]: [Osekai Medals | Jackpot(https://osekai.net/medals/?medal=Jackpot)
+[^1]: [Osekai Medals | Jackpot](https://osekai.net/medals/?medal=Jackpot)
