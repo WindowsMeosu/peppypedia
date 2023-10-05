@@ -7,7 +7,7 @@ IRC: (libera.chat) #peppypedia
 
 
 If you use gitlab instead of github please go here:
-https://gitlab.com/milotilo/peppypedia/-/blob/main/README.md
+https://github.com/WindowsMeosu/peppypedia/tree/master/README.md
 
 This repo is maintained by WindowsMeosu
 clone or fork this for whatever needs suit you best, to contribute, to mirror peppypedia to make or run your own so-called "peppypedia", etc, etc, etc, etc.
