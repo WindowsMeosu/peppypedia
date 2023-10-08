@@ -4,7 +4,7 @@ lastmod: [2023-05-23]
 categories: [users]
 menu:
   docs:
-    parent: "users"
+    parent: Users
 aliases: [eZHG, WhiteCat]
 stub: [true]
 peppypedia-old: [true]

@@ -1,5 +1,5 @@
 ---
-title: users
+title: Users
 has_children: true
 ---
 <table>

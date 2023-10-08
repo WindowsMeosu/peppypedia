@@ -4,7 +4,7 @@ lastmod: [2023-03-19]
 categories: [users]
 menu:
   docs:
-    parent: "users"
+    parent: Users
 aliases: [false]
 stub: [true]
 peppypedia-old: [true]
