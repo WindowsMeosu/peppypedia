@@ -16,8 +16,7 @@ jobs:
       - run: npm i && npm run build
       - uses: rossjrw/pr-preview-action@v1
         with:
-          source-dir: build
-          preview-branch: prdeploy
+          source-dir: docs
           custom-url: milotilo.ddns.net
           umbrella-dir: docs/pr-preview
           action: auto
