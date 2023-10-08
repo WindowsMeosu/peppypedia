@@ -21,9 +21,9 @@ jobs:
       - name: Install and Build
         run: |
           npm install
-          npm run build
+          npm run build 
 
       - name: Deploy preview
         uses: rossjrw/pr-preview-action@v1
         with:
-          source-dir: ./build/
+          source-dir: docs
