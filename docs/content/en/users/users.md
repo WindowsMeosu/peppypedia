@@ -1,6 +1,7 @@
 ---
-title: Users
+title: users
 has_children: true
+nav_exclude: true
 ---
 <table>
 <tbody><tr>

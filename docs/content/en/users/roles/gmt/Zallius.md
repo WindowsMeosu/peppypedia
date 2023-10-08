@@ -4,7 +4,7 @@ lastmod: [2022-10-24]
 categories: [users/roles/gmt]
 menu:
   docs:
-    parent: Users
+    parent: "users"
 aliases: [false]
 user-title: [Boats]
 role: [GMT]

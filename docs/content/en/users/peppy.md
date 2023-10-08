@@ -4,7 +4,7 @@ lastmod: [2022-10-20]
 categories: [users]
 menu:
   docs:
-    parent: Users
+    parent: "users"
 aliases: [ppy]
 stub: [true]
 PRexception: [tag41]
