@@ -17,7 +17,7 @@ jobs:
       - uses: rossjrw/pr-preview-action@v1
         with:
           source-dir: build
-          preview-branch: master
+          preview-branch: prdeploy
           custom-url: milotilo.ddns.net
           umbrella-dir: docs/pr-preview
           action: auto
