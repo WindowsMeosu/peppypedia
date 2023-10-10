@@ -1,12 +1,11 @@
 ---
-nav_exclude: false
 title: [Internet Relay Chat]
+parent: Bancho
 lastmod: [2023-06-28]
 categories: [bancho]
 menu:
   docs:
-    parent: Bancho
-aliases: [IRC]
+   aliases: [IRC]
 role: [false]
 stub: [false]
 peppypedia-old: [false]
@@ -14,7 +13,7 @@ peppypedia-current: [true]
 langauge: [english]
 ---
 <t><center>[Windows Me](https://osu.ppy.sh/users/28893698)</center>
-<link rel="stylesheet" href="../../profile.css"></t>
+<link rel="stylesheet" href="../profile.css"></t>
 
 ![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#author "Windows_Me")
 
