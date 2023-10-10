@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"/>
+<xs:element name="irc" cat="page" type="xs:page" index="false"/>
+<xs:metadata name="Internet Relay Chat" categories="users" docs="true" stub="false" peppypedia-old="false"/>
+<xs:attribute series="bancho" type="xs:markdown" main="required"/>
+
+   <!-- part of catschema -->
