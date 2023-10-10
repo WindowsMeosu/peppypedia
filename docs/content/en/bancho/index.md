@@ -1,5 +1,5 @@
 ---
-title: Medals
+title: Bancho
 has_children: true
 ---
 
@@ -11,6 +11,7 @@ has_children: true
 <table>
 <tbody><tr>
 <th>
-Note: this is not to be a replacement for Osekai Medals or any "medal hunting" webite.</th><th>
+This series is currently a work-in-progress.
+</th><th>
 
-Medals are an active 'Work in Progress'.
+This is a series documenting Bancho.

@@ -5,7 +5,7 @@ lastmod: [2023-06-28]
 categories: [bancho]
 menu:
   docs:
-    parent: "IRC"
+    parent: Bancho
 aliases: [IRC]
 role: [false]
 stub: [false]
