@@ -8,7 +8,7 @@
     <p><a href="{@xlink:href}"><xsl:apply-templates/></a></p>
   </xsl:template>
 
-  <xsl:template match="*">
+  <xsl:template match="sch">
     <html><body>
       <xsl:apply-templates/>
     </body></html>
