@@ -1,12 +1,12 @@
 ---
-title: [Internet Relay Chat]
+title: [BanchoBot]
 parent: Bancho
 lastmod: [2023-10-11]
 categories: [bancho]
 menu:
   docs:
    aliases: [Bancho]
-role: [false]
+role: [Chat Bot]
 stub: [true]
 peppypedia-old: [false]
 peppypedia-current: [true]
