@@ -29,9 +29,9 @@ langauge: [english]
 <summary>Series: Bancho</summary>
 <br>
 
-[Bancho](.../Bancho.md)
-
 [Internet Relay Chat](.)
+
+[BanchoBot](./BanchoBot.md)
 
 </details>
 
