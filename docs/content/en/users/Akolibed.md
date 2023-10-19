@@ -12,7 +12,7 @@ peppypedia-current: [true]
 nav_exclude: true
 ---
 
-<t><center>[Unknown](https://osu.ppy.sh/users/28893698)</center>
+<t><center>[Unknown](https://osu.ppy.sh/users/0)</center>
 <link rel="stylesheet" href="../profile.css"></t>
 
 ![Unknown](https://a.ppy.sh/0.jpeg#author "No author")
