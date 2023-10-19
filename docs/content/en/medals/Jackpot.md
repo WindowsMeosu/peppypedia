@@ -21,3 +21,11 @@ osu!/osu!taiko/osu!catch/osu!mania: Complete any map with a score above or exact
 </table>
 
 [^1]: [Osekai Medals | Jackpot](https://osekai.net/medals/?medal=Jackpot)
+
+###### Contributors
+
+ <link rel="stylesheet" href="./contributor.css">
+ 
+![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#contributor)
+  
+[Windows_Me](https://osu.ppy.sh/u/Windows_Me)

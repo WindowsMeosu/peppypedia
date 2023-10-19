@@ -75,3 +75,11 @@ The person who programmed BanchoBot and maintained the IRC protocol used for Ban
 [^4]: [osu! Wiki | Bancho (server)](https://osu.ppy.sh/wiki/en/Bancho_(server)).
 
 [^5]: [osu! Wiki | History of osu! 2007 | November](https://osu.ppy.sh/wiki/en/History_of_osu!/2007#november).
+
+###### Contributors
+
+ <link rel="stylesheet" href="./contributor.css">
+ 
+![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#contributor)
+  
+[Windows_Me](https://osu.ppy.sh/u/Windows_Me)

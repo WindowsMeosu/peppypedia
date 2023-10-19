@@ -60,5 +60,13 @@ response:
 {"exists":"true","name":"peppy","markup":"html/markdown","group":"ppy","author":"Windows_Me"}
 ```
 
-API progress can be seen [here](index.ts).\
-page completion progress can be seen [here](api.ts)
+API progress can be seen [here](index.ts.yml).\
+page completion progress can be seen [here](api.xml)
+
+###### Contributors
+
+ <link rel="stylesheet" href="./contributor.css">
+ 
+![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#contributor)
+  
+[Windows_Me](https://osu.ppy.sh/u/Windows_Me)

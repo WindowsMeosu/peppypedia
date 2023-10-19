@@ -24,3 +24,11 @@ This page is looking for contribution
 </th><th>
 
 ## Akolibed
+
+###### Contributors
+
+ <link rel="stylesheet" href="./contributor.css">
+ 
+![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#contributor)
+  
+[Windows_Me](https://osu.ppy.sh/u/Windows_Me) (Technical contributor)

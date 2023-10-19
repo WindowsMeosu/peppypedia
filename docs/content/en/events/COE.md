@@ -38,3 +38,11 @@ canoe's osu! event or COE is a yearly event hosted in the Netherlands.[^1] COE w
 [^4]: [Wikipedia. | osu!](<https://en.wikipedia.org/wiki/Osu!>)
 
 [^note]: The attendees list is only available whenever tickets are available to purchase. At the time of writing, tickets are no longer available for purchase.
+
+###### Contributors
+
+ <link rel="stylesheet" href="./contributor.css">
+ 
+![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#contributor)
+  
+[Windows_Me](https://osu.ppy.sh/u/Windows_Me)

@@ -43,6 +43,12 @@ Heard Island and McDonald Islands (Australia)</th></tr></tbody></table>
 
 </th></tr></tbody></table>
 
+###### Contributors
 
+ <link rel="stylesheet" href="./contributor.css">
+ 
+![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#contributor)
+  
+[Windows_Me](https://osu.ppy.sh/u/Windows_Me)
 
 <!-- TODO: rework -->

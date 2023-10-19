@@ -19,7 +19,7 @@ peppypedia-current: [true]
 <tbody><tr>
 <th>
 
-# mrekk
+## mrekk
 
 mrekk is the current #1 ranked osu! player in performance points who prospered #1 on April, 08, 2020.[^1] He is also the first australian #1 since eyup who peaked #1 in ranked score during 2007.[^2][^3] On December 27m 2022, mrekk had set the performance points record (1371.45pp) thus beating the old record set by aetrna(1356.97pp, 1357 excl. decimals).[^4][^5]. This record was broken by [Akolibed](Akolibed.md)[^7]. As of September 04, 2023, mrekk has won 12 tournament badges.[^6]
 
@@ -51,3 +51,11 @@ Australia</th></tr></tbody></table>
 [^6]: [osu! | mrekk](https://osu.ppy.sh/users/7562902)
 
 [^7]: [Reddit | r/osugame: Accolibed | DragonForce - Valley of the Damned [Apocalypse] (Kayne, 9.93*) +DT 99.32% FC #8 | 1505pp | 81.22 cv. UR | NEW STD PP RECORD!](https://www.reddit.com/r/osugame/comments/171ak1g/accolibed_dragonforce_valley_of_the_damned/)
+
+###### Contributors
+
+ <link rel="stylesheet" href="./contributor.css">
+ 
+![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#contributor)
+  
+[Windows_Me](https://osu.ppy.sh/u/Windows_Me)
