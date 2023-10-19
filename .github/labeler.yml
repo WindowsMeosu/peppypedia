@@ -8,7 +8,7 @@ docs:
 - docs/**/*
 # if changes happen to workflows
 workflow:
-- .github/workflows/**/*
+- .github/workflows/*
 # if changes are api related
 API:
 - docs/api/**/*
