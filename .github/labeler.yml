@@ -7,7 +7,7 @@ repo:
 docs:
 - docs/**/*
 # if changes happen to workflows
-workflow;
+workflow:
 - .github/workflows/**/*
 # if changes are api related
 API:
