@@ -15,3 +15,5 @@ This series is currently a work-in-progress.
 </th><th>
 
 This is a series documenting Bancho.
+</table>
+

@@ -49,8 +49,8 @@ BanchoBot is a multiple-use IRC chat bot, one of these uses consists of sending 
 
 ###### Contributors
 
- <link rel="stylesheet" href="./contributor.css">
+<link rel="stylesheet" href="../users/contributor.css">
  
-![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#contributor)
+ ![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#contributor)
   
 [Windows_Me](https://osu.ppy.sh/u/Windows_Me)

@@ -24,7 +24,7 @@ osu!/osu!taiko/osu!catch/osu!mania: Complete any map with a score above or exact
 
 ###### Contributors
 
- <link rel="stylesheet" href="./contributor.css">
+ <link rel="stylesheet" href="../users/contributor.css">
  
 ![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#contributor)
   

@@ -38,7 +38,7 @@ This page hasn't even updated in a while, it was first added [here](https://gith
 
 ###### Contributors
 
- <link rel="stylesheet" href="./contributor.css">
+<link rel="stylesheet" href="./contributor.css">
  
 ![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#contributor)
   

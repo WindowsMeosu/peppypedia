@@ -78,7 +78,7 @@ The person who programmed BanchoBot and maintained the IRC protocol used for Ban
 
 ###### Contributors
 
- <link rel="stylesheet" href="./contributor.css">
+<link rel="stylesheet" href="../users/contributor.css">
  
 ![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#contributor)
   

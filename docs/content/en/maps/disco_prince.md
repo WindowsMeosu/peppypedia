@@ -40,7 +40,7 @@ The first beatmap uploaded is Disco Prince, the first beatmap made for osu! was 
 
 ###### Contributors
 
- <link rel="stylesheet" href="./contributor.css">
+<link rel="stylesheet" href="../users/contributor.css">
  
 ![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#contributor)
   

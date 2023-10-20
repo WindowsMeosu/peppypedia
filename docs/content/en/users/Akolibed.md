@@ -27,7 +27,9 @@ This page is looking for contribution
 
 ###### Contributors
 
- <link rel="stylesheet" href="./contributor.css">
+</table>
+
+<link rel="stylesheet" href="./contributor.css">
  
 ![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#contributor)
   

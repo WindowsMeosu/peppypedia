@@ -48,7 +48,7 @@ South Korea</th></tr></tbody></table>
 
 ###### Contributors
 
- <link rel="stylesheet" href="./contributor.css">
+<link rel="stylesheet" href="./contributor.css">
  
 ![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#contributor)
   
