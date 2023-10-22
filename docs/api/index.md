@@ -60,7 +60,7 @@ response:
 {"exists":"true","name":"peppy","markup":"html/markdown","group":"ppy","author":"Windows_Me"}
 ```
 
-API progress can be seen [here](index.ts.yml).\
+API progress can be seen [here](index.ts.json).\
 page completion progress can be seen [here](api.xml)
 
 ###### Contributors
