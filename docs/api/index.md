@@ -44,7 +44,7 @@ if `exists` is set to value `true`, this indicates that the endpoint exists. mar
 "group":"BSC" = Beatmap Spotlight Curators
 "group":"Beatmap Spotlight Curators" = Beatmap Spotlight Curators
 (note: "mode" + gamemode should be inputted after if the group is set to BN, TrialBN, NAT, or BSC)
-
+```
 
 
 ```sh
@@ -62,11 +62,3 @@ response:
 
 API progress can be seen [here](index.ts.json).\
 page completion progress can be seen [here](api.xml)
-
-###### Contributors
-
- <link rel="stylesheet" href="./contributor.css">
- 
-![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#contributor)
-  
-[Windows_Me](https://osu.ppy.sh/u/Windows_Me)

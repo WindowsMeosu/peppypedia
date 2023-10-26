@@ -1,6 +1,8 @@
 ---
 title: [peppypedia]
 aliases: [index]
+show_author: false
+show_contributors: false
 ---
 <!-- I'm going to lose my fucking mind -->
 <!-- ## <tr> -->
