@@ -12,7 +12,7 @@
 <xs:element name="medals" version="00.01%" type="xs:page" index="false"/>
 <xs:element name="mrekk" version="97.56%" type="xs:user" index="true"/>
 <xs:element name="Akolibed" version="0.00%" type="xs:user" index="false"/>
-<xs:element name="credits" version="99.20" type:"xs:page" index="false"/>
+<xs:element name="credits" version="99.20%" type="xs:page" index="false"/>
 </xs:element>
 
 
