@@ -1,6 +1,7 @@
 ---
 title: API docs
 layout: minimal
+nav_exclude: true
 ---
 
 <title peppypedia API></title>
