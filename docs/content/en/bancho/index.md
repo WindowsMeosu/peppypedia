@@ -1,6 +1,7 @@
 ---
 title: Bancho
 has_children: true
+permalink: /bancho/toc/
 ---
 
 <t><center>[Windows Me](https://osu.ppy.sh/users/28893698)</center>
