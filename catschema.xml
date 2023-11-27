@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="peppy" cat="page" type="xs:user" index="true"/>
+<xs:element name="discoprince" cat="page" type="xs:map" index="true"/>
+<xs:element name="osu!" cat="page" type="xs:mode" index="true"/>
+<xs:element name="zallius" cat="page" type="xs:user" index="true"/>
+<xs:element name="jhlee0133" cat="page" type="xs:user" index="true"/>
+<xs:element name="pagetemplate" cat="page" type="xs:template" index="false"/>
+<xs:element name="osu!mania" cat="page" type="xs:draft" index="false"/>
+<xs:element name="peppypediaisandisnot" cat="page" type="xs:deleted" index="false"/>
+<xs:element name="coe" cat="page" type="xs:page" index="false"/>
+<xs:element name="irc" cat="page" type="xs:page" index="false"/>
+
+<xs:element name="pdata">
+ <xs:complex>
+    <xs:sequence>
+      <xs:element ref="series"/>
+      <xs:element ref="pages"/>
+      <xs:element ref="user"/>
+      <xs:element ref="index"/>
+    </xs:sequence>
+   <xs:attribute page="index" type="xs:markdown" main="required"/>
+   </xs:complex>
+   </xs:element>
+   </xs:schema>
+   <!-- copy from https://github.com/WindowsMeosu/windowsmeosu.github.io/blob/3a2d38a5c14eebb76142c4da88d9303e69609abc/peppypediadata/page_schema.xsd -->

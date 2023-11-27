@@ -12,6 +12,11 @@ peppypedia-current: [true]
 allowed_elements: ["table", "tr", "td", "th"]
 ---
 
+<t><center>[Windows Me](https://osu.ppy.sh/users/28893698)</center>
+<link rel="stylesheet" href="../profile.css"></t>
+
+![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#author "Windows_Me")
+
 <table>
 <tbody><tr>
 <th>
@@ -32,3 +37,11 @@ The first beatmap uploaded is Disco Prince, the first beatmap made for osu! was 
 </th>
 
 [^note]: this article is either inaccurate or completely wrong, no citations are shown. This page was first added [here](<https://github.com/WindowsMeosu/peppypedia-old/blob/master/_posts/maps:Disco%20Prince.md>).
+
+###### Contributors
+
+<link rel="stylesheet" href="../users/contributor.css">
+ 
+![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#contributor)
+  
+[Windows_Me](https://osu.ppy.sh/u/Windows_Me)

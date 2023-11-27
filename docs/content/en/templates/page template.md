@@ -8,10 +8,12 @@ menu:
     parent: "templates"
 aliases: [format-template]
 stub: [true]
-peppypedia-jekyll: [false]
+peppypedia-old: [false]
 peppypedia-current: [true]
+exclude_author: true
 nav_exclude: true
 ---
+
 # Page Template
 * Page Templates for peppypedia.
 # Markdown
@@ -55,3 +57,10 @@ example
 </tbody>
 </tr>
 </th>
+
+#### Contributors:
+
+<t><center>[Windows Me](https://osu.ppy.sh/users/28893698)</center>
+<link rel="stylesheet" href="../profile.css"></t>
+
+![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#author "Windows_Me")

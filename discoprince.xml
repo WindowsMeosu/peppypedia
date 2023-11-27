@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"/>
+<xs:element name="discorpince" cat="page" type="xs:user" index="true"/>
+<xs:metadata name="Disco Prince" categories="maps" docs="true" stub="true" peppypedia-old="true"/>
+<xs:attribute page="index" type="xs:markdown" main="required"/>
+
+   <!-- part of catschema -->

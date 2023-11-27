@@ -1,4 +1,5 @@
 ---
+nav: no_author
 nav_exclude: true
 ---
 # non-existant

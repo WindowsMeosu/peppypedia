@@ -1,6 +1,8 @@
 ---
 title: [peppypedia]
 aliases: [index]
+show_author: false
+show_contributors: false
 ---
 <!-- I'm going to lose my fucking mind -->
 <!-- ## <tr> -->
@@ -10,11 +12,11 @@ aliases: [index]
 # peppypedia
 
 <label for="progress">Full Completion:</label>
-<progress id="progress" value="96.2" max="100"> 96.2%</progress> 
- <label for="progress2">Stubs:</label>
-<progress id="progress2" value="97" max="100"> 97%</progress> 
- <label for="file">WIP</labe >
-<progress id="file" value="0.02" max="100"> 2%</progress> 
+<progress id="progress" value="92.2" max="100"> 92.2%</progress> 
+ <label for="progress2"><br>Stubs:</label>
+<progress id="progress2" value="90" max="100"> 90%</progress> 
+ <br><label for="file">WIP</label>
+<progress id="file" value="6" max="100"> 6%</progress> 
 
 #### [![IRC!](https://kiwiirc.com/buttons/irc.libera.chat/peppypedia.png)](https://kiwiirc.com/client/irc.libera.chat/?nick=guest|?&theme=cli##peppypedia)
 

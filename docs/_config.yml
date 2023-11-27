@@ -41,4 +41,12 @@ categories: user, content, events, users, maps
 output: true
 paginate: 5
 site_root: ./docs
+footer_content: peppypedia, started by Windows Me (windowsmeosu on github) documents top osu! players, in-game features, etc. peppypedia is not a replacement for the osu!wiki. Copyright, MiloTilo Services, BV.
+copyright: MiloTilo Services
+gh_edit_link: true
+gh_edit_link_text: "Edit or add improvisations to this page on GitHub."
+gh_edit_repository: "https://github.com/windowsmeosu/peppypedia"
+gh_edit_branch: "master"
+gh_edit_view_mode: "edit" 
+gh_edit_source: docs
 
