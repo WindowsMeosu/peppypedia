@@ -1,5 +1,14 @@
 # Add 'repo' label to any non-docs file changes
 repo:
 - '*'
+- _plugins/**/*
+- .github/**/*
+# if the changes happen in the 'docs' directory
 docs:
 - docs/**/*
+# if changes happen to workflows
+workflow:
+- .github/**/*
+# if changes are api related
+API:
+- docs/api/**/*

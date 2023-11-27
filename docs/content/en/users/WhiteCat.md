@@ -10,6 +10,10 @@ stub: [true]
 peppypedia-old: [true]
 peppypedia-current: [true]
 ---
+<t><center>[Windows Me](https://osu.ppy.sh/users/28893698)</center>
+<link rel="stylesheet" href="../profile.css"></t>
+
+![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#author "Windows_Me")
 
 <table>
 <tbody><tr>
@@ -40,3 +44,11 @@ Germany</th></tr></tbody></table>
 [^2]: [Reddit | r/osugame: mrekk is now #1, surpassing WhiteCat!!!](https://www.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/).
 
 [^3]: [Whitecat has changed his name to BlackDog5!](https://www.reddit.com/r/osugame/comments/10gajb1/whitecat_has_changed_his_name_to_blackdog5/).
+
+###### Contributors
+
+<link rel="stylesheet" href="./contributor.css">
+ 
+![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#contributor)
+  
+[Windows_Me](https://osu.ppy.sh/u/Windows_Me)

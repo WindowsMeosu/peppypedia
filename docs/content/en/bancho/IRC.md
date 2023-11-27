@@ -1,18 +1,22 @@
 ---
-nav_exclude: false
 title: [Internet Relay Chat]
+parent: Bancho
 lastmod: [2023-06-28]
 categories: [bancho]
 menu:
   docs:
-    parent: "IRC"
-aliases: [IRC]
+   aliases: [IRC]
 role: [false]
 stub: [false]
 peppypedia-old: [false]
 peppypedia-current: [true]
 langauge: [english]
 ---
+<t><center>[Windows Me](https://osu.ppy.sh/users/28893698)</center>
+<link rel="stylesheet" href="../profile.css"></t>
+
+![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#author "Windows_Me")
+
 <p hidden> I am aware of the multiple grammar issues present in this article, as it was somewhat rushed and I'm too lazy right now to be bothered (slightly because I didn't sleep at all last night).</p>
 <table>
 <tbody><tr>
@@ -25,9 +29,9 @@ langauge: [english]
 <summary>Series: Bancho</summary>
 <br>
 
-[Bancho](.../Bancho.md)
-
 [Internet Relay Chat](.)
+
+[BanchoBot](./BanchoBot.md)
 
 </details>
 
@@ -71,3 +75,11 @@ The person who programmed BanchoBot and maintained the IRC protocol used for Ban
 [^4]: [osu! Wiki | Bancho (server)](https://osu.ppy.sh/wiki/en/Bancho_(server)).
 
 [^5]: [osu! Wiki | History of osu! 2007 | November](https://osu.ppy.sh/wiki/en/History_of_osu!/2007#november).
+
+###### Contributors
+
+<link rel="stylesheet" href="../users/contributor.css">
+ 
+![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#contributor)
+  
+[Windows_Me](https://osu.ppy.sh/u/Windows_Me)

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"/>
+<xs:element name="peppy" cat="page" type="xs:user" index="true"/>
+<xs:metadata categories="users" docs="true" stub="true" prexception="41" peppypedia-old="true"/>
+<xs:attribute page="index" type="xs:markdown" main="required"/>
+
+   <!-- part of catschema -->

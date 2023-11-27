@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="peppy" version="60.02%" type="xs:user" index="true"/>
+<xs:element name="discoprince" version="72.05%" type="xs:map" index="true"/>
+<xs:element name="Zallius" version="95.20%" type="xs:user" index="true"/>
+<xs:element name="jhlee0133" version="92.01%" type="xs:user" index="true"/>
+<xs:element name="WhiteCat" version="89.22%" type="xs:page" index="true"/>
+<xs:element name="Bancho" version="87.22%" type="xs:page" index="false"/>
+<xs:element name="IRC" version="96.22%" type="xs:page" index="false"/>
+<xs:element name="COE" version="86.12%" type="xs:event" index="false"/>
+<xs:element name="users" version="0.00%" type="xs:page" index="false"/>
+<xs:element name="medals" version="00.01%" type="xs:page" index="false"/>
+<xs:element name="mrekk" version="97.56%" type="xs:user" index="true"/>
+<xs:element name="Akolibed" version="0.00%" type="xs:user" index="false"/>
+<xs:element name="credits" version="99.20%" type="xs:page" index="false"/>
+
+
+
+
