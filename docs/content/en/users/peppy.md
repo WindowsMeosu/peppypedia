@@ -44,6 +44,4 @@ This page hasn't even updated in a while, it was first added [here](https://gith
   
 [Windows_Me](https://osu.ppy.sh/u/Windows_Me)
 
-
-  
 <!-- TODO: rework -->
