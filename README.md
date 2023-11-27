@@ -2,7 +2,7 @@
 
 peppypedia is not to be a replacement for the osu!wiki.
 
-Some code here may not belong to me.
+Note: Some code here may not belong to me.
 IRC: (libera.chat) #peppypedia
 
 If you use gitlab instead of github please go here:
