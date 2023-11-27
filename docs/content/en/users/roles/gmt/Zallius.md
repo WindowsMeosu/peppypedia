@@ -25,8 +25,8 @@ peppypedia-current: [true]
 This page does not list much information about this particular person/map/feature/etc. (stub)
 </th><th>
 
-# Zallius
-
+## Zallius
+                
 Zallius, currently living in Australia is a current GMT member<a href="https://osu.ppy.sh/users/55">[1]</a> who usually moderates #osu. Zallius is considered a "Endangered species" on the Wiki.<a href="https://osu.ppy.sh/wiki/en/People/The_Team">[1]</a>. Anytime `!faq zallius` is used, BanchoBot will return with "`His eyes have awakened.`"
 
 <table>

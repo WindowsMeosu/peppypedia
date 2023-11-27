@@ -38,3 +38,4 @@ osu!mania is a playmode that offers more of a playstyle unique to Beatmania, Dan
 ![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#contributor)
   
 [Windows_Me](https://osu.ppy.sh/u/Windows_Me)
+ 

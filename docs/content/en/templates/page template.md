@@ -13,6 +13,7 @@ peppypedia-current: [true]
 exclude_author: true
 nav_exclude: true
 ---
+
 # Page Template
 * Page Templates for peppypedia.
 # Markdown

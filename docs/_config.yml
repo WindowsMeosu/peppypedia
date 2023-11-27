@@ -46,6 +46,7 @@ copyright: MiloTilo Services
 gh_edit_link: true
 gh_edit_link_text: "Edit or add improvisations to this page on GitHub."
 gh_edit_repository: "https://github.com/windowsmeosu/peppypedia"
-gh_edit_branch: "70-peppypedia-todo-checklist"
+gh_edit_branch: "master"
 gh_edit_view_mode: "edit" 
 gh_edit_source: docs
+

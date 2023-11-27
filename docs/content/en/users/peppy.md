@@ -11,6 +11,7 @@ PRexception: [tag41]
 peppypedia-old: [true]
 peppypedia-current: [true]
 ---
+
 <t><center>[Windows Me](https://osu.ppy.sh/users/28893698)</center>
 <link rel="stylesheet" href="../profile.css"></t>
 
@@ -34,7 +35,6 @@ on Oct. 6 2007, peppy added rankings. Ranks at this time were based in ranked sc
 </th></tr></tbody></table>
 
 This page hasn't even updated in a while, it was first added [here](https://github.com/WindowsMeosu/peppypedia-old/blob/96621d4a78ec5a9eeb8f7d29b3f72e129fb04920/_posts/users:peppy.md). Although there were minor updates since then, it is likely outdated.
- 
 
 ###### Contributors
 
