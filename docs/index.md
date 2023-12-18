@@ -30,7 +30,7 @@ show_contributors: false
 
    * * *
 
-   peppypedia has been visited over <a href="https://info.flagcounter.com/RKXq"><img src="https://s01.flagcounter.com/mini/RKXq/bg_B5B5B5/txt_000000/border_1BCCCC/flags_0/" alt="Flag Counter" border="0"></a> times. (any visits before 12/01/2022 do not count.)
+   peppypedia has been visited over [![](https://visitcount.itsvg.in/api?id=peppypedia&label=Page%20Views&icon=2&pretty=false)](https://visitcount.itsvg.in) times. (any visits before 12/01/2022 do not count.)(note: the previous counter from 2023-12-18 has been discarded and any visits before then no longer counts)
 
 | users: | <https://windowsmeosu.github.io/peppypedia/content/en/users/WhiteCat> |
 | --- | --- |
