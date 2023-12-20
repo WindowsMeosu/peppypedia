@@ -17,7 +17,7 @@ langauge: [english]
 
 ![Windows_Me](https://a.ppy.sh/28893698_q.jpeg#author "Windows_Me")
 
-<p hidden> I am aware of the multiple grammar issues present in this article, as it was somewhat rushed and I'm too lazy right now to be bothered (slightly because I didn't sleep at all last night).</p>
+<!-- I am aware of the multiple grammar issues present in this article, as it was somewhat rushed and I'm too lazy right now to be bothered (slightly because I didn't sleep at all last night). -->
 <table>
 <tbody><tr>
 <th>
@@ -43,7 +43,7 @@ Internet Relay Chat, better known and mostly abbreviated as IRC, is a text-based
 
 ### Connecting to osu!Bancho:
 
-To connect to osu!Bancho using IRC, obviously an IRC client is needed. When connecting, please disable SSL and SASL when connecting.
+To connect to osu!Bancho using IRC, obviously an IRC client is needed. When connecting, please disable SSL and SASL.
 ___
 
 - Server: `cho.ppy.sh` or `irc.ppy.sh`.
@@ -54,13 +54,13 @@ ___
 
 - Login: default (username + IRC password).
 
-- Username: Self-explanatory, however; it is worth noting that spaces cannot be used for this field. Instead use a dash. For example: instead of `Windows Me`, instead use `Windows_Me`. 
+- Username: Self-explanatory, however; it is worth noting that spaces cannot be used for this field. Instead use an underscore. For example: instead of `Windows Me`, instead use `Windows_Me`. 
 
 - Password: Your IRC password retrieved [here](https://osu.ppy.sh/home/account/edit#legacy-api). Note: even though you are NOT using your osu! account password, common sense should tell you that you shouldn't share any personal data which includes passwords such as this one.
 
 ### History
 
-The person who programmed BanchoBot and maintained the IRC protocol used for Bancho was [Echo](https://osu.ppy.sh/users/431), It is unknown whether they are still involved with the development of Bancho considering Echo's profile has the role of Alumini.[^3][^2][^4][^5]
+The person who programmed BanchoBot and maintained the IRC protocol used for Bancho was [Echo](https://osu.ppy.sh/users/431), It is unknown whether they are still involved with the development of Bancho considering Echo's profile has the role of Alumni.[^3][^2][^4][^5]
 
 </table>
 </tbody></tr>
