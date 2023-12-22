@@ -1,6 +1,6 @@
 # peppypedia
 
-> peppypedia is now looking for collaborators. Please read [collaborators](collaborators) if interested.
+> peppypedia is now looking for collaborators. Please read [collaborators](collaborators.md) if interested.
 
 peppypedia is not to be a replacement for the osu!wiki.
 
