@@ -41,6 +41,10 @@ langauge: [english]
 
 Internet Relay Chat, better known and mostly abbreviated as IRC, is a text-based chat protocol first introduced in 1988.[^1] The chat protocol used Bancho is IRC and can be connected to via an IRC client such as HexChat.[^2]
 
+## osu!Bancho
+
+osu!Bancho is entirely IRC-based. Connecting to Bancho with an IRC client allows one to chat without opening the game. Match referees are able to connect to multiplayer channels (`#mp_number`) allowing them to chat without being in the multiplayer room itself.
+
 ### Connecting to osu!Bancho:
 
 To connect to osu!Bancho using IRC, obviously an IRC client is needed. When connecting, please disable SSL and SASL.
