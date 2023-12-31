@@ -26,7 +26,7 @@ Heyo, I'm looking for both contributors and collaborators ([read the README](htt
 
 
   peppypedia
-      reworked version (0.0.2) (current [release](https://github.com/WindowsMeosu/peppypedia-old/releases/tag/v.0.2-beta.7.3))
+      reworked version (0.0.2) (current [release](https://github.com/WindowsMeosu/peppypedia-old/releases/tag/v.0.2-beta.7.9))
 
 
 * Note: the date for recommended pages is determined by the last commit or lastmod (excluding minor commits) and not determined by when the page was created. The order of these pages is determined by the lastmod date.
