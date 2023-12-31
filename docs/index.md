@@ -11,7 +11,9 @@ show_contributors: false
 
 # peppypedia
 
-Merry Christmas to the minority that actively visits here. I'm looking for both contributors and collaborators ([read the README](https://github.com/windowsmeosu/peppypedia)). If you are very experienced in Markdown or just want to help out in general, please do so!
+Happy New Years!
+
+Heyo, I'm looking for both contributors and collaborators ([read the README](https://github.com/windowsmeosu/peppypedia)). If you are very experienced in Markdown or just want to help out in general, please do so!
 
 <label for="progress">Full Completion:</label>
 <progress id="progress" value="92.2" max="100"> 92.2%</progress> 
