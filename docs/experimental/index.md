@@ -9,3 +9,5 @@ nav_exclude: true
 Here you can find experimental features that aren't yet corporated into peppypedia. 
 
 <center><h3>Lists</h3></center>
+
+<a href="https://milotilo.ddns.net/peppypedia/experimental/darklight.html">darklight.html</a>
