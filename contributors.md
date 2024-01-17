@@ -17,7 +17,7 @@
 
 2. Development\
 2.1. The user has contributed to the development of osu!(stable) and/or osu!(stream) in the past.\
-2.2. The user is part of the [Performance Points Committee](/wiki/People/Performance_Points_Committee).\
+2.2. The user is part of the [Performance Points Committee](https://osu.ppy.sh/wiki/People/Performance_Points_Committee).\
 2.3. The user is part of the developer group.\
 2.4. The user has contributed to lazer in the past or recent months and has enough sources for documention.\
 2.5. The user has made outstanding contributions to the osu! website (osu-web, osu-wiki) and has enough sources for documention.
