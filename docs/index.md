@@ -11,6 +11,8 @@ show_contributors: false
 
 # peppypedia
 
+Notice: peppypedia may be temporary unavailable (as a website) in order to prepare for some necessities
+
 Happy New Years!
 
 Heyo, I'm looking for both contributors and collaborators ([read the README](https://github.com/windowsmeosu/peppypedia)). If you are very experienced in Markdown or just want to help out in general, please do so!
