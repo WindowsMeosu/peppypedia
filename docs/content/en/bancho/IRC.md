@@ -47,20 +47,9 @@ osu!Bancho is entirely IRC-based. Connecting to Bancho with an IRC client allows
 
 ### Connecting to osu!Bancho:
 
-To connect to osu!Bancho using IRC, obviously an IRC client is needed. When connecting, please disable SSL and SASL.
-___
+Please refer to the osu!![wiki](https://osu.ppy.sh/wiki/en/Community/Internet_Relay_Chat).
 
-- Server: `cho.ppy.sh` or `irc.ppy.sh`.
 
-- Port: `6667`.
-
-- SSL: disabled.
-
-- Login: default (username + IRC password).
-
-- Username: Self-explanatory, however; it is worth noting that spaces cannot be used for this field. Instead use an underscore. For example: instead of `Windows Me`, instead use `Windows_Me`. 
-
-- Password: Your IRC password retrieved [here](https://osu.ppy.sh/home/account/edit#legacy-api). Note: even though you are NOT using your osu! account password, common sense should tell you that you shouldn't share any personal data which includes passwords such as this one.
 
 ### History
 
