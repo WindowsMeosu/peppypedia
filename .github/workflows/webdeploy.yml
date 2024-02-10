@@ -1,0 +1,34 @@
+name: WebDeploy
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: curl
+        run: curl https://milotilo.ddns.net/peppypedia
+
+      - name: caddy
+        run: |
+           sudo apt install -y debian-keyring debian-archive-keyring apt-transport-https -y
+           curl -1sLf 'https://dl.cloudsmith.io/public/caddy/stable/gpg.key' | sudo gpg --dearmor -o
+           /usr/share/keyrings/caddy-stable-archive-keyring.gpg
+           curl -1sLf 'https://dl.cloudsmith.io/public/caddy/stable/debian.deb.txt' | sudo tee /etc/apt/sources.list.d/caddy-stable.list
+           sudo apt-get update
+           sudo apt-get install caddy -y
+
+    
+      - name: caddy run
+        run: |
+         sudo systemctl enable --now caddy
+         
