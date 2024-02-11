@@ -55,5 +55,5 @@ jobs:
           sudo gem install jekyll-sitemap
           sudo gem install jekyll-titles-from-headings
           sudo gem install jemoji
-          sudo bundle exec jekyll serve --trace
+          sudo jekyll serve --trace
          
