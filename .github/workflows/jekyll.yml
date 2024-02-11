@@ -27,7 +27,7 @@ jobs:
          source ~/.bashrc
 
       - name: ruby
-        run: gem install jekyll bundler
+        run: sudo gem install jekyll bundler
 
       - name: jekyll
         run: |
