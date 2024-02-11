@@ -10,15 +10,14 @@ on:
 
 jobs:
   build:
-    runs-on: windows-latest
+    runs-on: windows-2019
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v1
 
       - name: curl
         run: curl https://milotilo.ddns.net/peppypediadata/page_schema.xsd
 
       - name: winget
-        run: |
-         winget https://milotilo.ddns.net/peppypediadata/page_schema.xsd
+        run: winget https://milotilo.ddns.net/peppypediadata/page_schema.xsd
          
