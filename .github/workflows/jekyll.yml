@@ -1,0 +1,37 @@
+name: jekyll
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: install jekyll
+        run: |
+         sudo apt-get update
+         sudo apt-get install ruby-full build-essential zlib1g-de
+         echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+         echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+         echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+         source ~/.bashrc
+
+      - name: ruby
+        run: gem install jekyll bundler
+
+      - name: jekyll
+        run: |
+          jekyll new peppypedia
+          cd peppypedia
+          sudo git clone git@github.com:WindowsMeosu/peppypedia.git
+          cd peppypedia
+          bundle exec jekyll serve
+         
