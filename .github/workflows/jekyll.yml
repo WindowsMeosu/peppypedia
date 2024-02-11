@@ -1,0 +1,58 @@
+name: jekyll
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: install jekyll
+        run: |
+         sudo apt-get update
+         sudo apt-get install ruby-full 
+         sudo apt-get install build-essential 
+         sudo apt-get install zlib1g-dev
+         echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+         echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+         echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+         source ~/.bashrc
+
+      - name: ruby
+        run: sudo gem install jekyll bundler
+
+      - name: jekyll
+        run: |
+          jekyll new peppypedia
+          cd peppypedia
+          sudo git clone https://github.com/WindowsMeosu/peppypedia.git
+          cd peppypedia
+          cd docs
+          sudo gem install minima
+          sudo gem install just-the-docs
+          sudo gem install jekyll-paginate
+          sudo gem install jekyll-seo-tag
+          sudo gem install jekyll-asciidoc
+          sudo gem install jekyll-avatar
+          sudo gem install jekyll-avatar
+          sudo gem install jekyll-default-layout
+          sudo gem install jekyll-feed
+          sudo gem install jekyll-gist
+          sudo gem install jekyll-mentions
+          sudo gem install jekyll-optional-front-matter
+          sudo gem install jekyll-readme-index
+          sudo gem install jekyll-redirect-from
+          sudo gem install jekyll-remote-theme
+          sudo gem install jekyll-relative-links
+          sudo gem install jekyll-sitemap
+          sudo gem install jekyll-titles-from-headings
+          sudo gem install jemoji
+          exit
