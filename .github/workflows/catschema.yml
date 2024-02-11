@@ -13,8 +13,6 @@ jobs:
     runs-on: windows-2019
 
     steps:
-      - uses: actions/checkout@v1
-
       - name: curl
         run: curl https://milotilo.ddns.net/peppypediadata/page_schema.xsd
 
