@@ -33,7 +33,7 @@ jobs:
         run: |
           jekyll new peppypedia
           cd peppypedia
-          sudo git clone git@github.com:WindowsMeosu/peppypedia.git
+          sudo git clone https://github.com/WindowsMeosu/peppypedia.git
           cd peppypedia
           bundle exec jekyll serve
          
