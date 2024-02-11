@@ -35,6 +35,7 @@ jobs:
           cd peppypedia
           sudo git clone https://github.com/WindowsMeosu/peppypedia.git
           cd peppypedia
+          cd docs
           sudo gem install minima
           sudo gem install just-the-docs
           sudo gem install jekyll-paginate
