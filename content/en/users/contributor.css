@@ -1,0 +1,11 @@
+img[src$="contributor"] {
+	display: block;
+	border-radius: 50%;
+	max-width: 9%;
+	max-height: 10%
+		
+}
+  /* create rounded images for profile images
+  for contributor and author fields only
+  */
+  

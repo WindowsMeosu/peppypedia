@@ -1,0 +1,7 @@
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
+ <schema xmlns:xlink="http://www.w3.org/1999/xlink">
+  <para>catschema version:</para>
+  <sch xlink:href="https://github.com/WindowsMeosu/peppypedia/blob/70-peppypedia-todo-checklist/catschema.xml"
+          xlink:type="simple">version 0.1</sch>
+
+</schema>
