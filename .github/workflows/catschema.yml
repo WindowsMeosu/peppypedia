@@ -1,22 +1,23 @@
-name: cat
+name: catschema
 
 on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
   workflow_dispatch:
-   inputs:
-    required: true
-    default: pass
-    options:
-      - pass
-      - fail
-      
+
 jobs:
-  deployment:
-    runs-on: ubuntu-latest
-    environment: cat
-    url: https://milotilo.ddns.net/peppypediadata/page_schema.xsd
+  build:
+    runs-on: windows-2019
+
     steps:
-     - name: deploy
-       shell: bash
-       run: |
-        curl "https://milotilo.ddns.net/peppypediadata/page_schema.xsd" -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8" -H "Accept-Language: en-US,en;q=0.5" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Upgrade-Insecure-Requests: 1" -H "Sec-Fetch-Dest: document" -H "Sec-Fetch-Mode: navigate" -H "Pragma: no-cache" -H "Cache-Control: no-cache" --output -O
-        
+      - name: curl
+        run: curl https://milotilo.ddns.net/peppypediadata/page_schema.xsd
+
+      - name: wget
+        run: |
+         choco install wget
+         wget https://milotilo.ddns.net/peppypediadata/page_schema.xsd
+         
