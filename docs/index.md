@@ -11,7 +11,7 @@ show_contributors: false
 
 # peppypedia
 
-> [!NOTE]
+> **Note**
 > project on hiatus until i'm motivated again
 
 Heyo, I'm looking for both contributors and collaborators ([read the README](https://github.com/windowsmeosu/peppypedia)). If you are very experienced in Markdown or just want to help out in general, please do so!
