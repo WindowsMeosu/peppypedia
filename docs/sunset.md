@@ -10,7 +10,7 @@ stub: [false]
 ---
 
 <t><center>[milotek](https://osu.ppy.sh/users/28893698)</center>
-<link rel="stylesheet" href="./en/profile.css">
+<link rel="stylesheet" href="./content/en/profile.css">
 
 ![milotek](https://a.ppy.sh/28893698_q.jpeg#author "milotek")
 
