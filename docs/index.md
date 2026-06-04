@@ -1,9 +1,21 @@
 ---
 title: [peppypedia]
+lastmod: [2026-06-04]
 aliases: [index]
 show_author: false
 show_contributors: false
+categories: [peppypedia]
+menu:
+  docs:
+    parent: "peppypedia"
 ---
+
+<script src="./experimental/redirkey.js"></script>
+
+> **Attention!**
+\
+> Press `.` to be redirected to `Sunset Notice`
+
 <!-- I'm going to lose my fucking mind -->
 <!-- ## <tr> -->
 <b><i>disqus comments are available [here](https://milotilo.ddns.net/peppypedia/comments/disqus/index.html).</b></i>
@@ -12,6 +24,7 @@ show_contributors: false
 # peppypedia
 
 > **Note**
+\
 > project on hiatus until i'm motivated again
 
 Heyo, I'm looking for both contributors and collaborators ([read the README](https://github.com/windowsmeosu/peppypedia)). If you are very experienced in Markdown or just want to help out in general, please do so!
