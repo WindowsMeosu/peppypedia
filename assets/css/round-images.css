@@ -1,0 +1,11 @@
+.image-rounded {
+	border-radius: 4px;
+	display: inline-block;
+}
+
+.image-rounded img {
+	visibility: hidden;
+}
+
+
+  

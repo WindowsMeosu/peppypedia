@@ -1,0 +1,28 @@
+<title>"darklight test"</title>
+<head>
+<style>
+    body {
+  padding: 25px;
+  background-color: white;
+  color: black;
+  font-size: 25px;
+}
+
+.switch {
+  background-color: black;
+  color: white;
+}
+</style>
+</head>
+
+     <body>
+    <button onclick="Switch()">Switch between light/dark backgrounds</button>
+
+    <script>
+    function Switch() {
+       var element = document.body;
+       element.classList.toggle("switch");
+    }
+    </script>
+
+<noscript>Please enable JavaScript to run experimental tests.</noscript>
