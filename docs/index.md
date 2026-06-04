@@ -9,13 +9,6 @@ menu:
   docs:
     parent: "peppypedia"
 ---
-
-<script src="./experimental/redirkey.js"></script>
-
-> **Attention!**
-\
-> Press `.` to be redirected to `Sunset Notice`
-
 <!-- I'm going to lose my fucking mind -->
 <!-- ## <tr> -->
 <b><i>disqus comments are available [here](https://milotilo.ddns.net/peppypedia/comments/disqus/index.html).</b></i>
